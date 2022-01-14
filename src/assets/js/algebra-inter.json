@@ -1,0 +1,602 @@
+[
+  {
+    "questionId": 1,
+    "question": "3 (x + 1)",
+    "choices": {
+      "a": "4x + 3",
+      "b": "4x + 4",
+      "c": "3x + 3",
+      "d": "3 + 1x"
+    },
+    "correctAnswer": "c",
+	"points": "180"
+  },
+  {
+    "questionId": 2,
+    "question": "4 (a + 2)",
+    "choices": {
+      "a": "a4 +  6",
+      "b": "a4 + 8",
+      "c": "4a + 6",
+      "d": "4a + 8"
+    },
+    "correctAnswer": "d",
+	"points": "180"
+  },
+  {
+    "questionId": 3,
+    "question": "5 (x + y)",
+    "choices": {
+      "a": "5x + 5y",
+      "b": "x5 + 5y",
+      "c": "6 + 5y",
+      "d": "6x + 5y"
+    },
+    "correctAnswer": "a",
+	"points": "180"
+  },
+  {
+    "questionId": 4,
+    "question": "10 (a – b)",
+    "choices": {
+      "a": "10a – b ",
+      "b": "a10 – 10b",
+      "c": "10a – 10b",
+      "d": "a10 – 10b"
+    },
+    "correctAnswer": "c",
+	"points": "180"
+  },
+  {
+    "questionId": 5,
+    "question": "x (–2 + y)",
+    "choices": {
+      "a": "-x2 + xy",
+      "b": "-2x + xy",
+      "c": "x2 + xy",
+      "d": "2x + xy"
+    },
+    "correctAnswer": "b",
+	"points": "180"
+  },
+  {
+    "questionId": 6,
+    "question": "–6 (5 – y)",
+    "choices": {
+      "a": "-30 – y6",
+      "b": "-30 + 6y",
+      "c": "30 + 6y",
+      "d": "30 – 6y"
+    },
+    "correctAnswer": "b",
+	"points": "180"
+  },
+  {
+    "questionId": 7,
+    "question": "2x (x + 2)",
+    "choices": {
+      "a": "2xx + 4x",
+      "b": "xx2 + 4",
+      "c": "3x + 4x",
+      "d": "2x2 + 4x"
+    },
+    "correctAnswer": "d",
+	"points": "180"
+  },
+  {
+    "questionId": 8,
+    "question": "3x (x + 2y)",
+    "choices": {
+      "a": "3x2 + 6xy",
+      "b": "3x2 + 6yx",
+      "c": "3x + 6xy",
+      "d": "3x + 6yx"
+    },
+    "correctAnswer": "a",
+	"points": "280"
+  },
+  {
+    "questionId": 9,
+    "question": "–2x (5x – y)",
+    "choices": {
+      "a": "10x2 – 2xy",
+      "b": "-10x + 2xy",
+      "c": "-10x2 + 2xy",
+      "d": "10x – 2xy"
+    },
+    "correctAnswer": "c",
+	"points": "280"
+  },
+  {
+    "questionId": 10,
+    "question": "5x (a + b)",
+    "choices": {
+      "a": "5ax + 5bx",
+      "b": "5xa + 5bx",
+      "c": "5xa + 5xb",
+      "d": "5ax + 5 xb"
+    },
+    "correctAnswer": "c",
+	"points": "280"
+  },
+  {
+    "questionId": 11,
+    "question": "3a (4x + 2y)",
+    "choices": {
+      "a": "12ax + 6ay",
+      "b": "12xa + 6ay ",
+      "c": "12ax + 6ya ",
+      "d": "12xa+ 6ya"
+    },
+    "correctAnswer": "a",
+	"points": "280"
+  },
+  {
+    "questionId": 12,
+    "question": "–4m (–2a – 5b)",
+    "choices": {
+      "a": "8am+ 20bm",
+      "b": "8ma + 20mb",
+      "c": "8am + 20mb ",
+      "d": "8ma + 20bm"
+    },
+    "correctAnswer": "b",
+	"points": "280"
+  },
+  {
+    "questionId": 13,
+    "question": "2xy (a + xy)",
+    "choices": {
+      "a": "2axy+ 2x2y2",
+      "b": "2xya+ 2y2x2",
+      "c": "2xay+ 2x2y2",
+      "d": "2xya+ 2x2y2"
+    },
+    "correctAnswer": "d",
+	"points": "280"
+  },
+  {
+    "questionId": 14,
+    "question": "3x2 (4x + 1)",
+    "choices": {
+      "a": "12x3 + 3x2",
+      "b": "12x2 + 3x3",
+      "c": "12x4 + 3x2",
+      "d": "12x2 + 3x2"
+    },
+    "correctAnswer": "a",
+	"points": "280"
+  },
+  {
+    "questionId": 15,
+    "question": "-7x2 (3x + 2)",
+    "choices": {
+      "a": "21x2 – 14x2",
+      "b": "-21x3 – 14x2 ",
+      "c": "-21x2 + 14x2",
+      "d": "21x3 + 14x2"
+    },
+    "correctAnswer": "b",
+	"points": "280"
+  },
+  {
+    "questionId": 16,
+    "question": "4x3 (2x – 1) ",
+    "choices": {
+      "a": "8x4 – 4x4",
+      "b": "8x3 – 4x3",
+      "c": "8x3 – 4x4",
+      "d": "8x4 – 4x3 "
+    },
+    "correctAnswer": "d",
+	"points": "280"
+  },
+  {
+    "questionId": 17,
+    "question": "x2y2 (2x + 3y)",
+    "choices": {
+      "a": "2x3y2 + 3x2y3",
+      "b": "2x2y2 + 3x2y3",
+      "c": "2 y2x3 + 3x2y3",
+      "d": "2x3y2 + 3y3x2"
+    },
+    "correctAnswer": "a",
+	"points": "280"
+  },
+  {
+    "questionId": 18,
+    "question": "-3x2y3 (7x – 2)",
+    "choices": {
+      "a": "-21x3y3 + 6x2 y3",
+      "b": "-21x3y3 + 6y3x2",
+      "c": "21 y3x3+ 6x2 y3",
+      "d": "21x3y3 + 6x2y3 "
+    },
+    "correctAnswer": "a",
+	"points": "280"
+  },
+  {
+    "questionId": 19,
+    "question": "5x3y6 (-2x2 + 4xy3)",
+    "choices": {
+      "a": "-10y6x5 + 20x4y9",
+      "b": "10x5y6 + 20 y9x4",
+      "c": "10x5y6 + 20x4y9 ",
+      "d": "-10x5y6 + 20x4y9"
+    },
+    "correctAnswer": "d",
+	"points": "280"
+  },
+  {
+    "questionId": 20,
+    "question": "-2x2y5 (–4x3y – 7x2y3)",
+    "choices": {
+      "a": "8x5y6 + 14x4y8",
+      "b": "-8x5y6 + 14x4y8",
+      "c": "8x5y6 – 14x4y8",
+      "d": "-8x5y6 – 14x4y8"
+    },
+    "correctAnswer": "a",
+	"points": "280"
+  },
+  {
+    "questionId": 21,
+    "question": "2 (4 + 9w)",
+    "choices": {
+      "a": "6 + 18w",
+      "b": "6 + w18",
+      "c": "8 + 18w",
+      "d": "8 + w18"
+    },
+    "correctAnswer": "c",
+	"points": "180"
+  },
+  {
+    "questionId": 22,
+    "question": "-4 (-4d - 5)",
+    "choices": {
+      "a": "-16d + 20",
+      "b": "16d + 20",
+      "c": "-16d – 20",
+      "d": "16d – 20"
+    },
+    "correctAnswer": "b",
+	"points": "180"
+  },
+  {
+    "questionId": 23,
+    "question": "(2 - 5m)(-5)",
+    "choices": {
+      "a": "-10 – 25m",
+      "b": "10 – 25m",
+      "c": "-10 + 25m",
+      "d": "10 + 25m"
+    },
+    "correctAnswer": "c",
+	"points": "180"
+  },
+  {
+    "questionId": 24,
+    "question": "2 (3v – 8)",
+    "choices": {
+      "a": "5v – 16",
+      "b": "6v + 16",
+      "c": "5v + 16",
+      "d": "6v – 16"
+    },
+    "correctAnswer": "d",
+	"points": "180"
+  },
+  {
+    "questionId": 25,
+    "question": "(−4)(4 − 2𝑥)",
+    "choices": {
+      "a": "-16 – 8x",
+      "b": "-16 + 8x",
+      "c": "16 – 8x",
+      "d": "16 + 8x"
+    },
+    "correctAnswer": "a",
+	"points": "180"
+  },
+  {
+    "questionId": 26,
+    "question": "(2 - 5m)(-5)",
+    "choices": {
+      "a": "-10 – 25m",
+      "b": "10 – 25m",
+      "c": "-10 + 25m",
+      "d": "10 + 25m"
+    },
+    "correctAnswer": "c",
+	"points": "180"
+  },
+  {
+    "questionId": 27,
+    "question": "(−6𝑥 + 2)(−1)",
+    "choices": {
+      "a": "-6x – 2",
+      "b": "6x – 2",
+      "c": "-6x + 2",
+      "d": "6x + 2"
+    },
+    "correctAnswer": "b",
+	"points": "180"
+  },
+  {
+    "questionId": 28,
+    "question": "(−5)(𝑥 − 2)",
+    "choices": {
+      "a": "5x – 10",
+      "b": "5x + 10",
+      "c": "-5x – 10",
+      "d": "-5x + 10"
+    },
+    "correctAnswer": "d",
+	"points": "180"
+  },
+  {
+    "questionId": 29,
+    "question": "2 (12 + 2𝑥)",
+    "choices": {
+      "a": "24 + x4",
+      "b": "24 + 4x²",
+      "c": "24 + x4²",
+      "d": "24 + 4x"
+    },
+    "correctAnswer": "c",
+	"points": "180"
+  },
+  {
+    "questionId": 30,
+    "question": "(−12𝑥 + 14)(−5)",
+    "choices": {
+      "a": "60x – 70",
+      "b": "-60x – 70",
+      "c": "-60x + 70",
+      "d": "60x + 70"
+    },
+    "correctAnswer": "a",
+	"points": "280"
+  },
+  {
+    "questionId": 31,
+    "question": "(−5)(4𝑥 − 1) + 4 (𝑥 + 2)",
+    "choices": {
+      "a": "16x + 13",
+      "b": "16x –13",
+      "c": "-16x – 13",
+      "d": "-16x + 13"
+    },
+    "correctAnswer": "d",
+	"points": "280"
+  },
+  {
+    "questionId": 32,
+    "question": "(−3)(𝑥 + 4) − (2 + 3𝑥)",
+    "choices": {
+      "a": "6x – 14",
+      "b": "-6x – 14",
+      "c": "6x + 14",
+      "d": "-6x + 14"
+    },
+    "correctAnswer": "b",
+	"points": "280"
+  },
+  {
+    "questionId": 33,
+    "question": "(10 − 2𝑥) 9",
+    "choices": {
+      "a": "90 + 18x",
+      "b": "90 – x18",
+      "c": "90 + x18",
+      "d": "90 – 18x"
+    },
+    "correctAnswer": "d",
+	"points": "180"
+  },
+  {
+    "questionId": 34,
+    "question": "(1 − 9𝑥)(−10)",
+    "choices": {
+      "a": "10 + 90x",
+      "b": "-10 – 90x",
+      "c": "10 – 90x",
+      "d": "-10 + 90x"
+    },
+    "correctAnswer": "d",
+	"points": "180"
+  },
+  {
+    "questionId": 35,
+    "question": "(−5)(11𝑥 − 2)",
+    "choices": {
+      "a": "55x + 10",
+      "b": "-55x + 10",
+      "c": "-55x –10",
+      "d": "55x –10"
+    },
+    "correctAnswer": "b",
+	"points": "180"
+  },
+  {
+    "questionId": 36,
+    "question": " (−6)(𝑥 + 8)",
+    "choices": {
+      "a": "-6x – 48",
+      "b": "6x – 48",
+      "c": "6x + 48",
+      "d": "-6x + 48"
+    },
+    "correctAnswer": "a",
+	"points": "180"
+  },
+  {
+    "questionId": 37,
+    "question": "(−4 + 3𝑥)(−8)",
+    "choices": {
+      "a": "-32 – 24x",
+      "b": "32 – 24x",
+      "c": "-32 + 24x",
+      "d": "32 + 24x"
+    },
+    "correctAnswer": "b",
+	"points": "280"
+  },
+  {
+    "questionId": 38,
+    "question": "(−5)(1 − 11𝑥)",
+    "choices": {
+      "a": "-5 + 55x",
+      "b": "5 + 55x",
+      "c": "-5 – 55x",
+      "d": "5 – 55x"
+    },
+    "correctAnswer": "a",
+	"points": "280"
+  },
+  {
+    "questionId": 39,
+    "question": "11 (3𝑥 − 12)",
+    "choices": {
+      "a": "-33x – 132",
+      "b": "33x + 132",
+      "c": "33x – 132",
+      "d": "33 – 132"
+    },
+    "correctAnswer": "c",
+	"points": "280"
+  },
+  {
+    "questionId": 40,
+    "question": "(8 − 2𝑥) 9",
+    "choices": {
+      "a": "72 – 18x",
+      "b": "82 – 18x",
+      "c": "62 – 18x",
+      "d": "52 – 18x"
+    },
+    "correctAnswer": "a",
+	"points": "280"
+  },
+  {
+    "questionId": 41,
+    "question": "5 (7 + 9𝑥)",
+    "choices": {
+      "a": "35 + 55x",
+      "b": "35 + 65x",
+      "c": "35 + 45x",
+      "d": "35 + 75x"
+    },
+    "correctAnswer": "c",
+	"points": "280"
+  },
+  {
+    "questionId": 42,
+    "question": "11 (5𝑥 + 2)",
+    "choices": {
+      "a": "55x + 22",
+      "b": "55 – 22x",
+      "c": "55x + 22",
+      "d": "55 – 22"
+    },
+    "correctAnswer": "c",
+	"points": "280"
+  },
+  {
+    "questionId": 43,
+    "question": "(−4𝑥 + 6) 6",
+    "choices": {
+      "a": "-24x + 36",
+      "b": "-24x – 36",
+      "c": "24x – 36",
+      "d": "-4x + 36"
+    },
+    "correctAnswer": "a",
+	"points": "180"
+  },
+  {
+    "questionId": 44,
+    "question": " (−4)(4 − 2𝑥)",
+    "choices": {
+      "a": "-16 – 8x",
+      "b": "16 + 8x",
+      "c": "-16 + 8x",
+      "d": "16 – 8x"
+    },
+    "correctAnswer": "c",
+	"points": "180"
+  },
+  {
+    "questionId": 45,
+    "question": "(−12)(2𝑥 + 1)",
+    "choices": {
+      "a": "24x + 12",
+      "b": "24x – 12",
+      "c": "-24x + 12",
+      "d": "-24x – 12"
+    },
+    "correctAnswer": "d",
+	"points": "180"
+  },
+  {
+    "questionId": 46,
+    "question": "(3b - 2)(-3)",
+    "choices": {
+      "a": "-9b + 6",
+      "b": "9b – 6",
+      "c": "-9b + 6",
+      "d": "-b –6"
+    },
+    "correctAnswer": "a",
+	"points": "180"
+  },
+  {
+    "questionId": 47,
+    "question": "(7x - 8)(-1)",
+    "choices": {
+      "a": "7x + 8",
+      "b": "-7x + 8",
+      "c": "-7x – 8",
+      "d": "7x – 8"
+    },
+    "correctAnswer": "b",
+	"points": "180"
+  },
+  {
+    "questionId": 48,
+    "question": "(-5f + 8) 4",
+    "choices": {
+      "a": "-20f + 36",
+      "b": "20f + 32",
+      "c": "20f + 36",
+      "d": "-20f + 32"
+    },
+    "correctAnswer": "d",
+	"points": "280"
+  },
+  {
+    "questionId": 49,
+    "question": "8 (2 + 9v)",
+    "choices": {
+      "a": "16 + 62v",
+      "b": "16 + 72v",
+      "c": "16 + 82v",
+      "d": "16 + 52v"
+    },
+    "correctAnswer": "b",
+	"points": "280"
+  },
+  {
+    "questionId": 50,
+    "question": "-4 (9k + 9)",
+    "choices": {
+      "a": "36k + 36",
+      "b": "-36k + 36",
+      "c": "-36k – 36",
+      "d": "36k – 36"
+    },
+    "correctAnswer": "c",
+	"points": "280"
+  }
+]

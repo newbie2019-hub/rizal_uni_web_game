@@ -1,0 +1,602 @@
+[
+  {
+    "questionId": 1,
+    "question": "The sum of x and 2",
+    "choices": {
+      "a": "x + 2",
+      "b": "x(2)",
+      "c": "1(x+2)",
+      "d": "X²"
+    },
+    "correctAnswer": "a",
+	"points": "180"
+  },
+  {
+    "questionId": 2,
+    "question": "t divided by 8",
+    "choices": {
+      "a": "8/t",
+      "b": "t/8",
+      "c": "t*8",
+      "d": "8 + t"
+    },
+    "correctAnswer": "b",
+	"points": "180"
+  },
+  {
+    "questionId": 3,
+    "question": "The product of 9 and m",
+    "choices": {
+      "a": "9m²",
+      "b": "m/9",
+      "c": "9m",
+      "d": "m + 9"
+    },
+    "correctAnswer": "c",
+	"points": "180"
+  },
+  {
+    "questionId": 4,
+    "question": "Subtract 5 from c",
+    "choices": {
+      "a": "c - 5",
+      "b": "5 - c",
+      "c": "-5c",
+      "d": "5(c)"
+    },
+    "correctAnswer": "a",
+	"points": "180"
+  },
+  {
+    "questionId": 5,
+    "question": "Combine y and 7",
+    "choices": {
+      "a": "y + 7",
+      "b": "7y",
+      "c": "Y7",
+      "d": "y/7"
+    },
+    "correctAnswer": "b",
+	"points": "180"
+  },
+  {
+    "questionId": 6,
+    "question": "Three-sevenths of h",
+    "choices": {
+      "a": "3(7+h)",
+      "b": "3h7",
+      "c": "3(7)h",
+      "d": "3/7 h"
+    },
+    "correctAnswer": "d",
+	"points": "280"
+  },
+  {
+    "questionId": 7,
+    "question": "3 multiplied by d",
+    "choices": {
+      "a": "3(d+1)",
+      "b": "3d",
+      "c": "3(d)",
+      "d": "3*d"
+    },
+    "correctAnswer": "b",
+	"points": "180"
+  },
+  {
+    "questionId": 8,
+    "question": "One-quarter added to n",
+    "choices": {
+      "a": "3/4 + n",
+      "b": "n + 1/4",
+      "c": "4/1 + n",
+      "d": "4/3 + n"
+    },
+    "correctAnswer": "b",
+	"points": "280"
+  },
+  {
+    "questionId": 9,
+    "question": "b decreased by 10",
+    "choices": {
+      "a": "10 - b",
+      "b": "-b + 10",
+      "c": "-b(10)",
+      "d": "289 ft²"
+    },
+    "correctAnswer": "d",
+	"points": "180"
+  },
+  {
+    "questionId": 10,
+    "question": "One-half of k",
+    "choices": {
+      "a": "1/2 k",
+      "b": "2/1 k",
+      "c": "2/k",
+      "d": "k/2"
+    },
+    "correctAnswer": "d",
+	"points": "280"
+  },
+  {
+    "questionId": 11,
+    "question": "The difference between z and 20",
+    "choices": {
+      "a": "20 < z",
+      "b": "z > 20",
+      "c": "z - 20",
+      "d": "20 - z"
+    },
+    "correctAnswer": "c",
+	"points": "280"
+  },
+  {
+    "questionId": 12,
+    "question": "Twice q",
+    "choices": {
+      "a": "2q",
+      "b": "q x q",
+      "c": "q + 2",
+      "d": "q²"
+    },
+    "correctAnswer": "a",
+	"points": "180"
+  },
+  {
+    "questionId": 13,
+    "question": "Add j to 1",
+    "choices": {
+      "a": "j + 1",
+      "b": "j/1",
+      "c": "1 + j",
+      "d": "j(1)"
+    },
+    "correctAnswer": "a",
+	"points": "180"
+  },
+  {
+    "questionId": 14,
+    "question": "5 divides e",
+    "choices": {
+      "a": "5/e",
+      "b": "e/5",
+      "c": "5*e",
+      "d": "5 - e"
+    },
+    "correctAnswer": "b",
+	"points": "180"
+  },
+  {
+    "questionId": 15,
+    "question": "f increased by 2",
+    "choices": {
+      "a": "f < 2",
+      "b": "f + 2",
+      "c": "5f²",
+      "d": "f(2)"
+    },
+    "correctAnswer": "b",
+	"points": "180"
+  },
+  {
+    "questionId": 16,
+    "question": "r less than one-eight",
+    "choices": {
+      "a": "1/8 / r",
+      "b": "r - 1/8",
+      "c": "r < 1/8",
+      "d": "1/8 - r"
+    },
+    "correctAnswer": "d",
+	"points": "180"
+  },
+  {
+    "questionId": 17,
+    "question": "7 times p",
+    "choices": {
+      "a": "p x 7",
+      "b": "7 x p",
+      "c": "7p",
+      "d": "p7"
+    },
+    "correctAnswer": "c",
+	"points": "180"
+  },
+  {
+    "questionId": 18,
+    "question": "6 multiplied by m",
+    "choices": {
+      "a": "m6",
+      "b": "6(m)",
+      "c": "m*6",
+      "d": "6m"
+    },
+    "correctAnswer": "d",
+	"points": "180"
+  },
+  {
+    "questionId": 19,
+    "question": "13 plus f",
+    "choices": {
+      "a": "f13",
+      "b": "f + 13",
+      "c": "13f",
+      "d": "13 + f"
+    },
+    "correctAnswer": "d",
+	"points": "180"
+  },
+  {
+    "questionId": 20,
+    "question": "y diminished by 4",
+    "choices": {
+      "a": "y < 4",
+      "b": "4 - y",
+      "c": "y/4²",
+      "d": "y - 4"
+    },
+    "correctAnswer": "d",
+	"points": "180"
+  },
+  {
+    "questionId": 21,
+    "question": "10 times w",
+    "choices": {
+      "a": "10w",
+      "b": "10 x w",
+      "c": "10/w",
+      "d": "w(10)"
+    },
+    "correctAnswer": "a",
+	"points": "180"
+  },
+  {
+    "questionId": 22,
+    "question": "k minus 16",
+    "choices": {
+      "a": "k - 16",
+      "b": "16/k",
+      "c": "k < 16",
+      "d": "16 - k"
+    },
+    "correctAnswer": "a",
+	"points": "180"
+  },
+  {
+    "questionId": 23,
+    "question": "The total of r and 10",
+    "choices": {
+      "a": "10r",
+      "b": "r + 10",
+      "c": "10 x r",
+      "d": "R(10)"
+    },
+    "correctAnswer": "b",
+	"points": "280"
+  },
+  {
+    "questionId": 24,
+    "question": "q reduced by the quotient of 2 and 3",
+    "choices": {
+      "a": "q + 2/3",
+      "b": "2/3 - q",
+      "c": "q - 2/3",
+      "d": "2/3 < q"
+    },
+    "correctAnswer": "c",
+	"points": "280"
+  },
+  {
+    "questionId": 25,
+    "question": "b separated into 9 equal parts",
+    "choices": {
+      "a": "9(b)",
+      "b": "b/9²",
+      "c": "9 - b",
+      "d": "9/b"
+    },
+    "correctAnswer": "b",
+	"points": "280"
+  },
+  {
+    "questionId": 26,
+    "question": "Subtract 5 from one-half of y",
+    "choices": {
+      "a": "2/5 - y",
+      "b": "5 - 2/y",
+      "c": "5 - y/2",
+      "d": "y/2 - 5"
+    },
+    "correctAnswer": "d",
+	"points": "280"
+  },
+  {
+    "questionId": 27,
+    "question": "The product of 4 and t is added to 1",
+    "choices": {
+      "a": "4t + 1",
+      "b": "4(t + 1)",
+      "c": "(4 + 1)t",
+      "d": "1 + t + 4"
+    },
+    "correctAnswer": "a",
+	"points": "280"
+  },
+  {
+    "questionId": 28,
+    "question": "Ratio of m and 7 added to 2",
+    "choices": {
+      "a": "√7m + 2",
+      "b": "m/7 + 2",
+      "c": "m√7 + 2",
+      "d": "2 + 7/m"
+    },
+    "correctAnswer": "b",
+	"points": "280"
+  },
+  {
+    "questionId": 29,
+    "question": "One-fifth of x is subtracted from 18",
+    "choices": {
+      "a": "18 1/5 - x",
+      "b": "- 1/5 x + 18",
+      "c": "18 - 1/5 x",
+      "d": "18 1/5 x"
+    },
+    "correctAnswer": "c",
+	"points": "280"
+  },
+  {
+    "questionId": 30,
+    "question": "7 times sum of c and 2",
+    "choices": {
+      "a": "7(c + 2)",
+      "b": "7 x c + 2",
+      "c": "7c + 2",
+      "d": "2c + 7"
+    },
+    "correctAnswer": "a",
+	"points": "280"
+  },
+  {
+    "questionId": 31,
+    "question": "The ratio of y and five plus 4",
+    "choices": {
+      "a": "y/5 + 4",
+      "b": "5:y + 4",
+      "c": "Y(5 + 4)",
+      "d": "5y + 4"
+    },
+    "correctAnswer": "a",
+	"points": "280"
+  },
+  {
+    "questionId": 32,
+    "question": "8 times the difference between x and 3",
+    "choices": {
+      "a": "(x - 3)8",
+      "b": "8(x - 3)",
+      "c": "3x - 8",
+      "d": "8x - 3"
+    },
+    "correctAnswer": "b",
+	"points": "280"
+  },
+  {
+    "questionId": 33,
+    "question": "The sum of 8 times b and 4",
+    "choices": {
+      "a": "8 x b + 4",
+      "b": "(8 + b)4",
+      "c": "8b + 4",
+      "d": "8(b + 4)"
+    },
+    "correctAnswer": "c",
+	"points": "280"
+  },
+  {
+    "questionId": 34,
+    "question": "One-third of sum of z and 4",
+    "choices": {
+      "a": "1/3 / z + 4",
+      "b": "4(1/3 + z)",
+      "c": "1/3(z +4)",
+      "d": "4z + 1/3"
+    },
+    "correctAnswer": "c",
+	"points": "280"
+  },
+  {
+    "questionId": 35,
+    "question": "One-eight of q added 4",
+    "choices": {
+      "a": "4 + 1/8 q",
+      "b": "4q + 1/8",
+      "c": "4q(1 + 8)",
+      "d": "1/8 q + 4"
+    },
+    "correctAnswer": "d",
+	"points": "280"
+  },
+  {
+    "questionId": 36,
+    "question": "The sum of 5 and p is divided by 2",
+    "choices": {
+      "a": "5 + p / 2",
+      "b": "5 + 2 / p",
+      "c": "p + 2 / 5",
+      "d": "2 + 5 / p"
+    },
+    "correctAnswer": "b",
+	"points": "280"
+  },
+  {
+    "questionId": 37,
+    "question": "Multiply one-third and x minus 6",
+    "choices": {
+      "a": "1/3(x - 6)",
+      "b": "(1/3 - x)6",
+      "c": "6x - 1/3",
+      "d": "x(1/3 - 6)"
+    },
+    "correctAnswer": "a",
+	"points": "280"
+  },
+  {
+    "questionId": 38,
+    "question": "Sum of twenty-seven and 5 times g",
+    "choices": {
+      "a": "27g + 5",
+      "b": "27 + 5g",
+      "c": "27(5 x g)",
+      "d": "27 x 5g"
+    },
+    "correctAnswer": "b",
+	"points": "280"
+  },
+  {
+    "questionId": 39,
+    "question": "Total of one-fifth and 4 times as much as q",
+    "choices": {
+      "a": "4(1/5 + q)",
+      "b": "(1/5 + 4)q",
+      "c": "1/5 + 4q",
+      "d": "(4 x 1/5)q"
+    },
+    "correctAnswer": "c",
+	"points": "280"
+  },
+  {
+    "questionId": 40,
+    "question": "Add 2 to a",
+    "choices": {
+      "a": "a + 2",
+      "b": "2 + a",
+      "c": "2a",
+      "d": "a2"
+    },
+    "correctAnswer": "a",
+	"points": "180"
+  },
+  {
+    "questionId": 41,
+    "question": "Subtract 1 from b",
+    "choices": {
+      "a": "-b + 1",
+      "b": "1 - b",
+      "c": "-1 - b",
+      "d": "b - 1"
+    },
+    "correctAnswer": "d",
+	"points": "280"
+  },
+  {
+    "questionId": 42,
+    "question": "Double c",
+    "choices": {
+      "a": "2c",
+      "b": "c2",
+      "c": "2/c",
+      "d": "c/2"
+    },
+    "correctAnswer": "a",
+	"points": "180"
+  },
+  {
+    "questionId": 43,
+    "question": "Add 1 to d",
+    "choices": {
+      "a": "1d",
+      "b": "1 + d",
+      "c": "d + 1",
+      "d": "1 * d"
+    },
+    "correctAnswer": "c",
+	"points": "180"
+  },
+  {
+    "questionId": 44,
+    "question": "Subtract 3 from e",
+    "choices": {
+      "a": "3 - e",
+      "b": "e - 3",
+      "c": "c < 3",
+      "d": "c / 3"
+    },
+    "correctAnswer": "b",
+	"points": "180"
+  },
+  {
+    "questionId": 45,
+    "question": "Half of f",
+    "choices": {
+      "a": "½ f",
+      "b": "½ / f",
+      "c": "1/f",
+      "d": "f/2"
+    },
+    "correctAnswer": "a",
+	"points": "180"
+  },
+  {
+    "questionId": 46,
+    "question": "Multiply g by 4",
+    "choices": {
+      "a": "g x g x g x g",
+      "b": "g4",
+      "c": "g4",
+      "d": "4g"
+    },
+    "correctAnswer": "d",
+	"points": "180"
+  },
+  {
+    "questionId": 47,
+    "question": "Multiply h by 3",
+    "choices": {
+      "a": "3 / h",
+      "b": "3 x h",
+      "c": "h3",
+      "d": "3h"
+    },
+    "correctAnswer": "d",
+	"points": "180"
+  },
+  {
+    "questionId": 48,
+    "question": "Divide i by 3",
+    "choices": {
+      "a": "i³",
+      "b": "i(3)",
+      "c": "i/3",
+      "d": "3i"
+    },
+    "correctAnswer": "d",
+	"points": "280"
+  },
+  {
+    "questionId": 49,
+    "question": "Add 4 to j",
+    "choices": {
+      "a": "4j",
+      "b": "j + 4",
+      "c": "(j)(4)",
+      "d": "4/j"
+    },
+    "correctAnswer": "b",
+	"points": "280"
+  },
+  {
+    "questionId": 50,
+    "question": "Double k and add 1",
+    "choices": {
+      "a": "2k + 1",
+      "b": "K2 + 1",
+      "c": "2(k + 1)",
+      "d": "½ / k"
+    },
+    "correctAnswer": "a",
+	"points": "280"
+  }
+]

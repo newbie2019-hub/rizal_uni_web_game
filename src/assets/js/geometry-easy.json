@@ -1,0 +1,752 @@
+[
+  {
+    "img": "ANNULUS.png",
+    "questionId": 1,
+    "choices": {
+      "d": "Circle",
+      "a": "Circular Segment",
+      "b": "Circular sector",
+      "c": "Annulus"
+    },
+    "type": "easy",
+    "createdAt": 1642058575011,
+    "question": " This figure is characterized by the presence of two concentric circular structures, both of which differ in size. In most cases, the inferior of the shape is not closed. This figure is also called a ring structure. ",
+    "correctAnswer": "c",
+	"points": "280"
+  },
+  {
+    "type": "easy",
+    "questionId": 2,
+    "question": "It is a 3D geometric shape that is half of a sphere with one side flat and the other side as a circular bowl.",
+    "correctAnswer": "c",
+    "choices": {
+      "c": "Hemisphere",
+      "b": "Torus",
+      "d": "Heart",
+      "a": "Ring"
+    },
+    "img": "HEMISPHERE.png",
+    "createdAt": 1642058575011,
+	"points": "180"
+  },
+  {
+    "choices": {
+      "c": "Rectangular Prism",
+      "b": "Hexagonal Prism",
+      "d": "Cone",
+      "a": "Sphere"
+    },
+    "createdAt": 1642058575011,
+    "img": "HEXAGONAL PRISM.png",
+    "question": "It consists of twelve vertices, eighteen edges, and eight faces. This figure has two hexagons at the opposite ends. The remaining faces have rectangular or square shapes.",
+    "questionId": 3,
+    "type": "easy",
+    "correctAnswer": "b",
+	"points": "180"
+  },
+  {
+    "question": "It consists of twelve equal sides and the sum of the angles is equal to 1800 degrees. Ten lines of symmetry are present. ",
+    "correctAnswer": "b",
+    "type": "easy",
+    "img": "DODECAGON.png",
+    "choices": {
+      "c": "Heptagon",
+      "a": "Hexagon",
+      "b": "Dodecagon",
+      "d": "Octagon"
+    },
+    "createdAt": 1642058575011,
+    "questionId": 4,
+	"points": "280"
+  },
+  {
+    "question": "It consists of five equal sides and the sum if all angles are equal to 540 degrees. Five lines of symmetry are present. ",
+    "img": "PENTAGON.png",
+    "questionId": 5,
+    "type": "easy",
+    "correctAnswer": "b",
+    "createdAt": 1642058575011,
+	"points": "180",
+    "choices": {
+      "b": "Pentagon",
+      "a": "Hexagon",
+      "c": "Heptagon",
+      "d": "Octagon"
+    }
+  },
+  {
+    "choices": {
+      "d": "Pentagonal Prism",
+      "c": "Hexagonal Pyramid",
+      "b": "Cone",
+      "a": "Square Pyramid"
+    },
+    "img": "HEXAGONAL PYRAMID.png",
+    "createdAt": 1642058575011,
+    "correctAnswer": "c",
+    "questionId": 6,
+    "type": "easy",
+	"points": "280",
+    "question": "This shape consists mainly of 7 vertices, 12 edges, and 7 faces. Its base is hexagonal in shape, and the faces are triangular"
+  },
+  {
+    "type": "easy",
+    "choices": {
+      "c": "Hemisphere",
+      "b": "Torus",
+      "a": "Ring ",
+      "d": "Heart"
+    },
+    "question": "Shape like a ring. A shape structure with every point equidistant from the center.",
+    "img": "RING.png",
+    "createdAt": 1642058575011,
+    "correctAnswer": "a",
+    "questionId": 7,
+	"points": "280"
+  },
+  {
+    "img": "SCALENE TRIANGLE.png",
+    "question": "All of its sides have unequal lengths and all three angles have varying values. ",
+    "questionId": 8,
+    "type": "easy",
+    "correctAnswer": "d",
+    "createdAt": 1642058575011,
+    "choices": {
+      "a": "Isosceles Triangle ",
+      "b": "Obtuse Triangle ",
+      "c": "Right Triangle",
+      "d": "Scalene Triangle "
+    },
+	"points": "280"
+  },
+  {
+    "createdAt": 1642058575011,
+    "img": "SQUARE PYRAMID.png",
+    "questionId": 9,
+    "type": "easy",
+    "correctAnswer": "d",
+    "choices": {
+      "d": "Square Pyramid",
+      "a": "Triangular Pyramid",
+      "b": "Cone",
+      "c": "Pentagonal Prism"
+    },
+    "question": "The base is made up of a square, whereas the rest of the faces are triangles. Overall, it has 5 vertices, 8 edges, and 5 faces.",
+	"points": "280"
+  },
+  {
+    "type": "easy",
+    "choices": {
+      "d": "Square",
+      "b": "Rhombus",
+      "c": "Trapezoid ",
+      "a": "Kite"
+    },
+    "correctAnswer": "a",
+    "question": "Two sets of adjacent sides are equal and two opposite angles also have equal values. A line of symmetry is present.",
+    "createdAt": 1642058575011,
+    "img": "KITE.png",
+    "questionId": 10,
+	"points": "280"
+  },
+  {
+    "createdAt": 1642058575011,
+    "choices": {
+      "a": "Octahedron",
+      "c": "Icosahedron",
+      "b": "Dodecahedron",
+      "d": "Frustum"
+    },
+    "question": "They consist of 12 pentagonal faces, 20 vertices, and 30 edges. The faces are of equal-sized pentagons.",
+    "correctAnswer": "b",
+    "img": "DODECAHEDRON.png",
+    "type": "easy",
+    "questionId": 11,
+	"points": "280"
+  },
+  {
+    "questionId": 12,
+    "img": "CONE.png",
+    "type": "easy",
+    "question": "Along with one apex and one edge, cones have one curved face, and one additional flat face. The angle of the apex may vary from acute to obtuse.",
+    "correctAnswer": "c",
+    "createdAt": 1642058575011,
+    "choices": {
+      "c": "Cone",
+      "a": "Cube",
+      "d": "Rectangular Prism",
+      "b": "Sphere"
+    },
+	"points": "280"
+  },
+  {
+    "type": "easy",
+    "question": "This consists of two sets of opposite lines that are equal and parallel. The opposite angles are also equal regarding any value. A line of symmetry may be present. ",
+    "img": "PARALLELOGRAM.png",
+    "correctAnswer": "b",
+    "questionId": 13,
+    "createdAt": 1642058575011,
+    "choices": {
+      "d": "Irregular Quadrilateral ",
+      "c": "Rhombus ",
+      "a": "Trapezium ",
+      "b": "Parallelogram "
+    },
+	"points": "280"
+  },
+  {
+    "type": "easy",
+    "createdAt": 1642058575011,
+    "img": "ARCHES.png",
+    "choices": {
+      "a": "Oval / Ellipse",
+      "d": "Lens",
+      "b": "Arches",
+      "c": "Crescent"
+    },
+    "correctAnswer": "b",
+    "questionId": 14,
+    "question": "These figures consist of a curved line that meets a straight line at two adjacent points. The former line may be entirely curved or might be in the form of two parallel lines before joining the straight line",
+	"points": "280"
+  },
+  {
+    "createdAt": 1642058575011,
+    "question": "It consists of ten equal sides and the sum of the angles is equal to 1440 degrees. Ten lines of symmetry are present. ",
+    "correctAnswer": "c",
+    "questionId": 15,
+    "img": "DECAGON.png",
+    "type": "easy",
+    "choices": {
+      "d": "Octagon",
+      "b": "Pentagon",
+      "c": "Decagon",
+      "a": "Hexagon"
+    },
+	"points": "180"
+  },
+  {
+    "question": "This geometric figure does not have any edges and vertices, and only one curved face is present. It is the most evenly curved shape included under the 3D category.",
+    "type": "easy",
+    "questionId": 16,
+    "correctAnswer": "c",
+    "createdAt": 1642058575011,
+    "choices": {
+      "d": "Cylinder",
+      "b": "Cube",
+      "a": "Cone",
+      "c": "Sphere"
+    },
+    "img": "SPHERE.png",
+	"points": "180"
+  },
+  {
+    "correctAnswer": "b",
+    "type": "easy",
+    "createdAt": 1642058575011,
+    "questionId": 17,
+    "img": "IRREGULAR QUADRILATERAL.png",
+    "choices": {
+      "a": "Trapezium",
+      "b": "Irregular Quadrilateral ",
+      "d": "Rhombus",
+      "c": "Parallelogram "
+    },
+    "question": "It has four unequal sides and its appearance is concave which means that at least one angle is greater than 180 degrees. ",
+	"points": "180"
+  },
+  {
+    "choices": {
+      "a": "Parallelogram ",
+      "d": "Kite ",
+      "b": "Square ",
+      "c": "Rhombus "
+    },
+    "createdAt": 1642058575011,
+    "img": "RHOMBUS.png",
+    "questionId": 18,
+    "question": "All four sides are equal and parallel, but only the opposite angles are equal. Two lines of  symmetry are present. ",
+    "type": "easy",
+    "correctAnswer": "c",
+	"points": "180"
+  },
+  {
+    "choices": {
+      "b": "Circle",
+      "d": "Lens",
+      "c": "Crescent",
+      "a": "Oval / Ellipse"
+    },
+    "img": "CRESCENT.png",
+    "questionId": 19,
+    "correctAnswer": "c",
+    "question": "This shape is characterized by the presence of two curved lines: one is convex and the other is concave. They meet in the similar manner as that of the lens. forming a peculiar figure.",
+    "createdAt": 1642058575011,
+    "type": "easy",
+	"points": "180"
+  },
+  {
+    "type": "easy",
+    "img": "LENS.png",
+    "correctAnswer": "d",
+    "choices": {
+      "c": "Crescent",
+      "d": "Lens",
+      "b": "Circle",
+      "a": "Oval / Ellipse"
+    },
+    "question": "This figure is like an ellipse but consists of two distinct curved lines that meet at opposite ends. In this case, two points are present at their junction.",
+    "createdAt": 1642058575011,
+    "questionId": 20,
+	"points": "180"
+  },
+  {
+    "createdAt": 1642058575011,
+    "question": "It is like the circle, but the distance from the center to the circumference varies constantly.  Thus, this shape has two axes: major and minor, along with an elongated shape.",
+    "correctAnswer": "a",
+    "type": "easy",
+    "img": "OVAL or ELLIPSE.png",
+    "choices": {
+      "c": "Lens",
+      "b": "Circle",
+      "a": "Oval / Ellipse",
+      "d": "Crescent"
+    },
+    "questionId": 21,
+	"points": "180"
+  },
+  {
+    "createdAt": 1642058575011,
+    "questionId": 22,
+    "question": "One of its angles is 90 degrees. A line of symmetry may or may not be present. ",
+    "choices": {
+      "c": "Obtuse Triangle ",
+      "b": "Isosceles Triangle",
+      "d": "Right Triangle",
+      "a": "Acute Triangle "
+    },
+    "correctAnswer": "d",
+    "img": "RIGHT TRIANGLE.png",
+    "type": "easy",
+	"points": "180"
+  },
+  {
+    "createdAt": 1642058575011,
+    "type": "easy",
+    "img": "PIE.png",
+    "correctAnswer": "d",
+    "choices": {
+      "d": "Pie",
+      "c": "Torus",
+      "b": "Rhombus",
+      "a": "Sphere"
+    },
+    "questionId": 23,
+    "question": "It has two straight sides (the two radius lines), the curved edge define by the arc, and touches the center of the circle.",
+	"points": "180"
+  },
+  {
+    "img": "HEXAGON.png",
+    "createdAt": 1642058575011,
+    "type": "easy",
+    "questionId": 24,
+    "question": "It consists of six equal sides and sum of the angles is equal to 720 degrees. Six lines of symmetry are present.",
+    "choices": {
+      "c": "Heptagon",
+      "a": "Hexagon",
+      "b": "Pentagon",
+      "d": "Octagon"
+    },
+    "correctAnswer": "a",
+	"points": "180"
+  },
+  {
+    "img": "PENTAGRAMMIC PRISM.png",
+    "type": "easy",
+    "correctAnswer": "b",
+    "createdAt": 1642058575011,
+    "choices": {
+      "d": "Triangular Pyramid",
+      "a": "Triangular Prism",
+      "b": "Pentagrammic Prism",
+      "c": "Pentagonal Prism"
+    },
+    "question": "It is composed of two pentagram faces connected by five intersecting square faces. ",
+    "questionId": 25,
+	"points": "180"
+  },
+  {
+    "type": "easy",
+    "img": "TETRAHEDRON.png",
+    "choices": {
+      "d": "Tetrahedron",
+      "c": "Sphere",
+      "a": "Parallelepiped",
+      "b": "Cuboid"
+    },
+    "question": "It is similar to the appearance of a triangular pyramid, with the only exception being that all the face sides and the base are all of equal size.",
+    "questionId": 26,
+    "correctAnswer": "d",
+    "createdAt": 1642058575011,
+	"points": "180"
+  },
+  {
+    "correctAnswer": "b",
+    "img": "TORUS.png",
+    "choices": {
+      "b": "Torus",
+      "c": "Hemisphere",
+      "a": "Ring",
+      "d": "Heart"
+    },
+    "type": "easy",
+    "createdAt": 1642058575011,
+    "question": "It is a surface of revolution generated by revolving a circle in three-dimensional space about an axis that is coplanar with the circle.",
+    "questionId": 27,
+	"points": "280"
+  },
+  {
+    "correctAnswer": "a",
+    "type": "easy",
+    "questionId": 28,
+    "createdAt": 1642058575011,
+    "img": "ICOSAHEDRON.png",
+    "question": "They are characterized by 30 edges, 20 faces and 12 vertices. The faces are made up of equilateral triangles",
+    "choices": {
+      "d": "Rhombic Dodecahedron",
+      "b": "Dodecahedron",
+      "c": "Octahedron",
+      "a": "Icosahedron"
+    },
+	"points": "280"
+  },
+  {
+    "img": "OBTUSE TRIANGLE.png",
+    "correctAnswer": "a",
+    "question": "One of its angles is greater than 90 degrees. A line of symmetry may or may not be present. ",
+    "type": "easy",
+    "choices": {
+      "c": "Scalene Triangle ",
+      "d": "Right Triangle ",
+      "b": "Acute Triangle ",
+      "a": "Obtuse Triangle "
+    },
+    "createdAt": 1642058575011,
+    "questionId": 29,
+	"points": "180"
+  },
+  {
+    "questionId": 30,
+    "correctAnswer": "b",
+    "type": "easy",
+    "question": "It is a cone-shaped structure, but instead of an apex, a circle is present at one end.",
+    "img": "FRUSTUM.png",
+    "createdAt": 1642058575011,
+    "choices": {
+      "b": "Frustum",
+      "d": "Triangular Pyramid",
+      "a": "Tetrahedron",
+      "c": "Triangle"
+    },
+	"points": "180"
+  },
+  {
+    "type": "easy",
+    "questionId": 31,
+    "question": "All four angles are equal to 90 degrees along with four equal sides. This polygon has four lines of symmetry. ",
+    "createdAt": 1642058575011,
+    "correctAnswer": "d",
+    "choices": {
+      "c": "Kite ",
+      "d": "Square ",
+      "b": "Rectangle ",
+      "a": "Rhombus "
+    },
+    "img": "SQUARE.png",
+	"points": "180"
+  },
+  {
+    "type": "easy",
+    "choices": {
+      "b": "Rectangle ",
+      "c": "Parallelogram ",
+      "d": "Trapezoid ",
+      "a": "Square "
+    },
+    "createdAt": 1642058575011,
+    "question": "This has two sets of opposite sides that are equal and all four angles are 90 degrees. Two lines of symmetry are present. ",
+    "questionId": 32,
+    "correctAnswer": "b",
+    "img": "RECTANGLE.png",
+	"points": "180"
+  },
+  {
+    "type": "easy",
+    "questionId": 33,
+    "createdAt": 1642058575011,
+    "choices": {
+      "a": "Rectangle ",
+      "b": "Rhombus ",
+      "d": "Trapezium",
+      "c": "Trapezoid "
+    },
+    "img": "TRAPEZIUM.png",
+    "correctAnswer": "d",
+    "question": "All four sides are unequal and non-parallel, and the line of symmetry is absent.",
+	"points": "180"
+  },
+  {
+    "question": "It may have four or more than four unequal sides, and the appearance might be concave, i.e., at least one angle is greater than 180 degrees.",
+    "img": "IRREGULAR POLYGON.png",
+    "correctAnswer": "a",
+    "type": "easy",
+    "questionId": 34,
+    "createdAt": 1642058575011,
+    "choices": {
+      "b": "Pentagon",
+      "c": "Heptagon",
+      "a": "Irregular polygon",
+      "d": "Octagon"
+    },
+	"points": "180"
+  },
+  {
+    "questionId": 35,
+    "img": "PENTAGONAL PRISM.png",
+    "choices": {
+      "c": "Triangular Pyramid",
+      "b": "Square Pyramid",
+      "a": "Pentagonal Prism",
+      "d": "Hexagonal Prism"
+    },
+    "createdAt": 1642058575011,
+    "question": "It consists of ten vertices, fifteen edges, and seven faces. This figure has two pentagons at the opposite ends. The remaining faces have rectangular or square shapes.",
+    "correctAnswer": "a",
+    "type": "easy",
+	"points": "280"
+  },
+  {
+    "correctAnswer": "a",
+    "img": "TRIANGULAR PYRAMID.png",
+    "question": "In this shape, the base as well as the faces are triangles. Overall, it has 4 vertices, 6 edges, and 4 faces. The basal triangle has a different size as compared to the faces.",
+    "questionId": 36,
+    "type": "easy",
+    "choices": {
+      "a": "Triangular Pyramid",
+      "b": "Cone",
+      "d": "Square Pyramid",
+      "c": "Pentagonal Prism"
+    },
+    "createdAt": 1642058575011,
+	"points": "280"
+  },
+  {
+    "question": "It consists of eight equal sides and the sum of the angles is equal to 1080 degrees. Eight lines of symmetry are present. ",
+    "choices": {
+      "b": "Pentagon",
+      "a": "Hexagon",
+      "c": "Heptagon",
+      "d": "Octagon"
+    },
+    "questionId": 37,
+    "type": "easy",
+    "img": "OCTAGON.png",
+    "correctAnswer": "d",
+    "createdAt": 1642058575011,
+	"points": "180"
+  },
+  {
+    "img": "PARALLELEPIPED.png",
+    "type": "easy",
+    "createdAt": 1642058575011,
+    "question": "In this figure, all the faces as well as the base are in the shape of parallelograms. The sizes of the faces may differ of may be same.",
+    "choices": {
+      "b": "Tetrahedron",
+      "d": "Pentagonal Prism",
+      "c": "Hexagonal Pyramid",
+      "a": "Parallelepiped"
+    },
+    "correctAnswer": "a",
+    "questionId": 38,
+	"points": "180"
+  },
+  {
+    "questionId": 39,
+    "choices": {
+      "b": "Pentagon",
+      "d": "Octagon",
+      "a": "Hexagon",
+      "c": "Heptagon"
+    },
+    "question": "It consists of seven equal sides and the sum of the angles is equal to 900 degrees. Seven lines of symmetry are present.",
+    "img": "HEPTAGON.png",
+    "correctAnswer": "c",
+    "type": "easy",
+    "createdAt": 1642058575011,
+	"points": "180"
+  },
+  {
+    "correctAnswer": "b",
+    "choices": {
+      "a": "Acute Triangle",
+      "d": "Obtuse Triangle",
+      "c": "Isosceles Triangle ",
+      "b": "Equilateral Triangle "
+    },
+    "type": "easy",
+    "createdAt": 1642058575011,
+    "img": "EQUILATERAL TRIANGLE.png",
+    "question": "This contains three sides and three angles that are all equal which is why a line of symmetry is present.",
+    "questionId": 40,
+	"points": "280"
+  },
+  {
+    "createdAt": 1642058575011,
+    "choices": {
+      "c": "Isosceles Triangle ",
+      "b": "Equilateral Triangle ",
+      "a": "Acute Triangle ",
+      "d": "Scalene Triangle "
+    },
+    "correctAnswer": "c",
+    "img": "ISOSCELES TRIANGLE.png",
+    "questionId": 41,
+    "type": "easy",
+    "question": "A triangle with two sides that has equal lengths, two equal angles, and a line of symmetry is also present. ",
+	"points": "280"
+  },
+  {
+    "img": "OCTAHEDRON.png",
+    "question": "This figure has 8 triangles arranged in a specific manner to form 6 vertices, 8 faces, and twelve edges. The triangles may be either equilateral or isosceles.",
+    "correctAnswer": "b",
+    "questionId": 42,
+    "createdAt": 1642058575011,
+    "choices": {
+      "d": "Parallelepiped",
+      "a": "Dodecahedron",
+      "b": "Octahedron",
+      "c": "Tetrahedron"
+    },
+    "type": "easy",
+	"points": "280"
+  },
+  {
+    "type": "easy",
+    "img": "RHOMBIC DODECAHEDRON.png",
+    "createdAt": 1642058575011,
+    "choices": {
+      "a": "Icosahedron",
+      "b": "Dodecahedron",
+      "c": "Octahedron",
+      "d": "Rhombic Dodecahedron"
+    },
+    "questionId": 43,
+    "question": "This type of figure consists of 12 rhomb-shaped faces, along with 14 vertices and 24 edges.",
+    "correctAnswer": "d",
+	"points": "280"
+  },
+  {
+    "question": "Shaped like the conventional representation of a heart, with two equal curves meeting at a point at the bottom and a cusp at the top.",
+    "type": "easy",
+    "correctAnswer": "d",
+    "choices": {
+      "d": "Heart",
+      "a": "Ring",
+      "c": "Hemisphere",
+      "b": "Torus"
+    },
+    "img": "HEART.png",
+    "questionId": 44,
+    "createdAt": 1642058575011,
+	"points": "280"
+  },
+  {
+    "question": "It consists of nine equal sides and the sum of the angles is equal to 1260 degrees. Nine lines of symmetry are present. ",
+    "img": "NONAGON.png",
+    "createdAt": 1642058575011,
+    "correctAnswer": "a",
+    "type": "easy",
+    "questionId": 45,
+    "choices": {
+      "b": "Pentagon",
+      "a": "Nonagon",
+      "d": "Octagon",
+      "c": "Heptagon"
+    },
+	"points": "280"
+  },
+  {
+    "correctAnswer": "b",
+    "createdAt": 1642058575011,
+    "question": "One set of opposite lines is parallel and the other set is non-parallel. A line of symmetry may be present.",
+    "choices": {
+      "b": "Trapezoid",
+      "c": "Irregular Quadrilateral ",
+      "d": "Parallelogram ",
+      "a": "Trapezium "
+    },
+    "questionId": 46,
+    "img": "TRAPEZOID.png",
+    "type": "easy",
+	"points": "180"
+  },
+  {
+    "type": "easy",
+    "choices": {
+      "d": "Obtuse Triangle",
+      "a": "Equilateral Triangle ",
+      "b": "Isosceles Triangle ",
+      "c": "Acute Triangle "
+    },
+    "img": "ACUTE TRIANGLE.png",
+    "createdAt": 1642058575011,
+    "questionId": 47,
+    "correctAnswer": "c",
+    "question": "All of its angles are less than 90 degrees. A line of symmetry may or may not be present.",
+	"points": "280"
+  },
+  {
+    "img": "CIRCLE.png",
+    "questionId": 48,
+    "question": "Consisting of one only curve line, this shape does not have any other joining point or apex. The distance from the epicenter to the circumference is equal throughout all the sectors. ",
+    "correctAnswer": "b",
+    "choices": {
+      "b": "Circle",
+      "a": "Oval / Ellipse",
+      "d": "Crescent",
+      "c": "Lens"
+    },
+    "createdAt": 1642058575011,
+    "type": "easy",
+	"points": "280"
+  },
+  {
+    "correctAnswer": "c",
+    "questionId": 49,
+    "choices": {
+      "b": "Sphere",
+      "c": "Rectangular Prism/Cuboid",
+      "a": "Cylinder",
+      "d": "Cone"
+    },
+    "question": "It has the same number of sides, faces, and vertices as the cube, except that the faces are rectangular shape.",
+    "img": "RECTANGULAR PRISM or CUBOID.png",
+    "type": "easy",
+    "createdAt": 1642058575011,
+	"points": "280"
+  },
+  {
+    "correctAnswer": "b",
+    "createdAt": 1642058575011,
+    "questionId": 50,
+    "choices": {
+      "a": "Sphere",
+      "d": "Cone",
+      "b": "Cylinder",
+      "c": "Pyramid "
+    },
+    "question": "This shape does not have any vertices, but consists of two flat faces and one curved face. Two edges are also present.",
+    "img": "CYCLINDER.png",
+    "type": "easy",
+	"points": "280"
+  }
+]

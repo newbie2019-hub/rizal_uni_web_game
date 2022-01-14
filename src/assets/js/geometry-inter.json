@@ -1,0 +1,702 @@
+[
+  {
+    "questionId": 1,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "8 yd",
+      "b": "64 yd",
+      "c": "64 yd²",
+      "d": "32 yd",
+      "e": "32 yd²"
+    },
+    "correctAnswer": "c",
+    "img": "8yd.png",
+	"points": "180"
+  },
+  {
+    "questionId": 2,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "6 ft",
+      "b": "36 ft",
+      "c": "24 ft²",
+      "d": "36 ft²",
+      "e": "32 yd²"
+    },
+    "correctAnswer": "d",
+    "img": "6ft.png",
+	"points": "180"
+  },
+  {
+    "questionId": 3,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "12 in",
+      "b": "24 in²",
+      "c": "36 in²",
+      "d": "48 in²",
+      "e": "144 in²"
+    },
+    "correctAnswer": "e",
+    "img": "12in.png",
+	"points": "280"
+  },
+  {
+    "questionId": 4,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "18 ft",
+      "b": "324 ft²",
+      "c": "323 ft²",
+      "d": "322 ft²",
+      "e": "320 ft²"
+    },
+    "correctAnswer": "b",
+    "img": "18ft.png",
+	"points": "280"
+  },
+  {
+    "questionId": 5,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "11 in",
+      "b": "121 in²",
+      "c": "121 in",
+      "d": "121 in⁴",
+      "e": "144 in³"
+    },
+    "correctAnswer": "b",
+    "img": "11in.png",
+	"points": "280"
+  },
+  {
+    "questionId": 6,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "2 yd",
+      "b": "8 yd",
+      "c": "16 yd²",
+      "d": "4 yd²",
+      "e": "12 yd²"
+    },
+    "correctAnswer": "d",
+    "img": "2yd.png",
+	"points": "180"
+  },
+  {
+    "questionId": 7,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "9 in",
+      "b": "81 in²",
+      "c": "36 in",
+      "d": "45 in²",
+      "e": "18 in²"
+    },
+    "correctAnswer": "b",
+    "img": "9in.png",
+	"points": "180"
+  },
+  {
+    "questionId": 8,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "3 yd",
+      "b": "12 yd²",
+      "c": "6 yd²",
+      "d": "15 yd²",
+      "e": "9 yd²"
+    },
+    "correctAnswer": "e",
+    "img": "3yd.png",
+	"points": "180"
+  },
+  {
+    "questionId": 9,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "17 ft",
+      "b": "68 ft²",
+      "c": "68 ft",
+      "d": "289 ft²",
+      "e": "289 ft"
+    },
+    "correctAnswer": "d",
+    "img": "17ft.png",
+	"points": "280"
+  },
+  {
+    "questionId": 10,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "4 ft",
+      "b": "12 ft²",
+      "c": "16 ft²",
+      "d": "12 ft",
+      "e": "16 ft"
+    },
+    "correctAnswer": "c",
+    "img": "4ft.png",
+	"points": "180"
+  },
+  {
+    "questionId": 11,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "10 in",
+      "b": "40 in²",
+      "c": "100 in²",
+      "d": "40 in",
+      "e": "100 in"
+    },
+    "correctAnswer": "c",
+    "img": "10in.png",
+	"points": "280"
+  },
+  {
+    "questionId": 12,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "2 yd",
+      "b": "8 yd",
+      "c": "6 yd",
+      "d": "4 yd²",
+      "e": "8 yd²"
+    },
+    "correctAnswer": "d",
+    "img": "2yd.png",
+	"points": "180"
+  },
+  {
+    "questionId": 13,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "7 yd",
+      "b": "49 in²",
+      "c": "14 in²",
+      "d": "28 in²",
+      "e": "14 in"
+    },
+    "correctAnswer": "b",
+    "img": "7in.png",
+	"points": "180"
+  },
+  {
+    "questionId": 14,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "20 ft",
+      "b": "80 ft²",
+      "c": "40 ft²",
+      "d": "60 ft²",
+      "e": "400 ft²"
+    },
+    "correctAnswer": "e",
+    "img": "20ft.png",
+	"points": "280"
+  },
+  {
+    "questionId": 15,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "19 ft",
+      "b": "38 ft",
+      "c": "57 ft²",
+      "d": "361 ft²",
+      "e": "190 ft²"
+    },
+    "correctAnswer": "d",
+    "img": "19ft.png",
+	"points": "280"
+  },
+  {
+    "questionId": 16,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "15 in",
+      "b": "225 in²",
+      "c": "256 in²",
+      "d": "254 in²",
+      "e": "253 in²"
+    },
+    "correctAnswer": "b",
+    "img": "15in.png",
+	"points": "280"
+  },
+  {
+    "questionId": 17,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "3 yd",
+      "b": "12 yd",
+      "c": "12 yd²",
+      "d": "9 yd",
+      "e": "9 yd²"
+    },
+    "correctAnswer": "e",
+    "img": "3yd.png",
+	"points": "180"
+  },
+  {
+    "questionId": 18,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "6 yd",
+      "b": "24 yd²",
+      "c": "12 yd²",
+      "d": "18 yd²",
+      "e": "36 yd²"
+    },
+    "correctAnswer": "e",
+    "img": "6yd.png",
+	"points": "180"
+  },
+  {
+    "questionId": 19,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "5 in",
+      "b": "20 in",
+      "c": "25 in²",
+      "d": "20 in²",
+      "e": "25 in"
+    },
+    "correctAnswer": "c",
+    "img": "5in.png",
+	"points": "180"
+  },
+  {
+    "questionId": 20,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "14 ft",
+      "b": "196 ft²",
+      "c": "197 ft²",
+      "d": "197 ft²",
+      "e": "16 ft"
+    },
+    "correctAnswer": "b",
+    "img": "14ft.png",
+	"points": "280"
+  },
+  {
+    "questionId": 21,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "16 ft",
+      "b": "256 ft²",
+      "c": "254 ft²",
+      "d": "257 ft²",
+      "e": "252 ft²"
+    },
+    "correctAnswer": "b",
+    "img": "16ft.png",
+	"points": "280"
+  },
+  {
+    "questionId": 22,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "11 yd",
+      "b": "120 yd",
+      "c": "111 yd²",
+      "d": "121 yd²",
+      "e": "122 yd²"
+    },
+    "correctAnswer": "d",
+    "img": "11yd.png",
+	"points": "280"
+  },
+  {
+    "questionId": 23,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "15 yd",
+      "b": "45 yd²",
+      "c": "225 yd²",
+      "d": "30 yd²",
+      "e": "230 yd"
+    },
+    "correctAnswer": "c",
+    "img": "15yd.png",
+	"points": "280"
+  },
+  {
+    "questionId": 24,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "12 ft",
+      "b": "24 ft",
+      "c": "144 ft²",
+      "d": "60 ft²",
+      "e": "400 ft²"
+    },
+    "correctAnswer": "c",
+    "img": "12ft.png",
+	"points": "280"
+  },
+  {
+    "questionId": 25,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "4 in",
+      "b": "16 in²",
+      "c": "8 in²",
+      "d": "12 in²",
+      "e": "24 in²"
+    },
+    "correctAnswer": "b",
+    "img": "4in.png",
+	"points": "180"
+  },
+  {
+    "questionId": 26,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "20 ft",
+      "b": "200 ft²",
+      "c": "100 ft²",
+      "d": "300 ft²",
+      "e": "400 ft²"
+    },
+    "correctAnswer": "d",
+    "img": "20ft.png",
+	"points": "280"
+  },
+  {
+    "questionId": 27,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "7 in",
+      "b": "28 in",
+      "c": "28 in²",
+      "d": "9 in",
+      "e": "49 in²"
+    },
+    "correctAnswer": "e",
+    "img": "7in.png",
+	"points": "180"
+  },
+  {
+    "questionId": 28,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "9 in",
+      "b": "18 in²",
+      "c": "81 in²",
+      "d": "18 in",
+      "e": "81 in"
+    },
+    "correctAnswer": "c",
+    "img": "9in.png",
+	"points": "180"
+  },
+  {
+    "questionId": 29,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "14 in",
+      "b": "56 in²",
+      "c": "28 in²",
+      "d": "196 in²",
+      "e": "25 in"
+    },
+    "correctAnswer": "d",
+    "img": "14in.png",
+	"points": "280"
+  },
+  {
+    "questionId": 30,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "10 yd",
+      "b": "30 yd²",
+      "c": "60 yd²",
+      "d": "90 yd²",
+      "e": "100 yd²"
+    },
+    "correctAnswer": "e",
+    "img": "10yd.png",
+	"points": "280"
+  },
+  {
+    "questionId": 31,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "13 yd",
+      "b": "169 yd²",
+      "c": "52 yd²",
+      "d": "169 yd",
+      "e": "52 yd"
+    },
+    "correctAnswer": "b",
+    "img": "13yd.png",
+	"points": "280"
+  },
+  {
+    "questionId": 32,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "16 yd",
+      "b": "64 yd",
+      "c": "256 yd²",
+      "d": "121 yd²",
+      "e": "12 yd²"
+    },
+    "correctAnswer": "c",
+    "img": "16yd.png",
+	"points": "280"
+  },
+  {
+    "questionId": 33,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "6 ft",
+      "b": "24 ft²",
+      "c": "48 ft²",
+      "d": "36 ft²",
+      "e": "18 ft²"
+    },
+    "correctAnswer": "d",
+    "img": "6ft.png",
+	"points": "180"
+  },
+  {
+    "questionId": 34,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "17 in",
+      "b": "289 in²",
+      "c": "272 ft²",
+      "d": "289 in²",
+      "e": "272 in²"
+    },
+    "correctAnswer": "b",
+    "img": "17in.png",
+	"points": "280"
+  },
+  {
+    "questionId": 35,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "15 in",
+      "b": "16 in²",
+      "c": "8 in²",
+      "d": "225 in²",
+      "e": "300 in²"
+    },
+    "correctAnswer": "d",
+    "img": "15in.png",
+	"points": "280"
+  },
+  {
+    "questionId": 36,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "8 ft",
+      "b": "64 ft²",
+      "c": "100 ft²",
+      "d": "30 ft²",
+      "e": "400 ft²"
+    },
+    "correctAnswer": "b",
+    "img": "8ft.png",
+	"points": "180"
+  },
+  {
+    "questionId": 37,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "21 yd",
+      "b": "441 yd²",
+      "c": "42 yd",
+      "d": "63 yd",
+      "e": "442 yd²"
+    },
+    "correctAnswer": "b",
+    "img": "21yd.png",
+	"points": "280"
+  },
+  {
+    "questionId": 38,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "12 in",
+      "b": "18 in²",
+      "c": "81 in²",
+      "d": "144 in²",
+      "e": "81 in"
+    },
+    "correctAnswer": "d",
+    "img": "12in.png",
+	"points": "280"
+  },
+  {
+    "questionId": 39,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "19 ft",
+      "b": "368 ft²",
+      "c": "361 ft²",
+      "d": "360 ft²",
+      "e": "364 ft²"
+    },
+    "correctAnswer": "c",
+    "img": "19ft.png",
+	"points": "280"
+  },
+  {
+    "questionId": 40,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "5 in",
+      "b": "50 in",
+      "c": "25 in²",
+      "d": "50 in²",
+      "e": "25 in"
+    },
+    "correctAnswer": "c",
+    "img": "5in.png",
+	"points": "180"
+  },
+  {
+    "questionId": 41,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "23 yd",
+      "b": "169 yd²",
+      "c": "52 yd²",
+      "d": "169 yd",
+      "e": "529 yd²"
+    },
+    "correctAnswer": "e",
+    "img": "23yd.png",
+	"points": "280"
+  },
+  {
+    "questionId": 42,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "72 ft",
+      "b": "5,184 ft²",
+      "c": "5,180 ft²",
+      "d": "5,182 ft²",
+      "e": "5,181 ft²"
+    },
+    "correctAnswer": "b",
+    "img": "72ft.png",
+	"points": "280"
+  },
+  {
+    "questionId": 43,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "33 ft",
+      "b": "1,023 ft²",
+      "c": "48 ft²",
+      "d": "36 ft²",
+      "e": "1,089 ft²"
+    },
+    "correctAnswer": "e",
+    "img": "33ft.png",
+	"points": "280"
+  },
+  {
+    "questionId": 44,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "17 in",
+      "b": "289 in²",
+      "c": "272 ft²",
+      "d": "289 in²",
+      "e": "272 in²"
+    },
+    "correctAnswer": "b",
+    "img": "17in.png",
+	"points": "280"
+  },
+  {
+    "questionId": 45,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "20 in",
+      "b": "80 in²",
+      "c": "8 in²",
+      "d": "225 in²",
+      "e": "400 in²"
+    },
+    "correctAnswer": "e",
+    "img": "20in.png",
+	"points": "280"
+  },
+  {
+    "questionId": 46,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "23 yd",
+      "b": "169 yd²",
+      "c": "1,024 yd²",
+      "d": "1,020 yd²",
+      "e": "1,022 yd²"
+    },
+    "correctAnswer": "c",
+    "img": "32yd.png",
+	"points": "280"
+  },
+  {
+    "questionId": 47,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "30 yd",
+      "b": "900 yd",
+      "c": "900 yd²",
+      "d": "70 yd²",
+      "e": "45 yd²"
+    },
+    "correctAnswer": "c",
+    "img": "30yd.png",
+	"points": "280"
+  },
+  {
+    "questionId": 48,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "13 yd",
+      "b": "160 yd²",
+      "c": "169 yd²",
+      "d": "36 ft²",
+      "e": "189 yd²"
+    },
+    "correctAnswer": "c",
+    "img": "13yd.png",
+	"points": "280"
+  },
+  {
+    "questionId": 49,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "63 ft",
+      "b": "3,966 ft²",
+      "c": "3,969 ft²",
+      "d": "3,999 ft²",
+      "e": "3,996 ft²"
+    },
+    "correctAnswer": "c",
+    "img": "72ft.png",
+	"points": "280"
+  },
+  {
+    "questionId": 50,
+    "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
+    "choices": {
+      "a": "82 in",
+      "b": "6,742 in²",
+      "c": "6,724 in²",
+      "d": "6,744 in²",
+      "e": "6,722 in²"
+    },
+    "correctAnswer": "c",
+    "img": "82in.png",
+	"points": "280"
+  }
+]
