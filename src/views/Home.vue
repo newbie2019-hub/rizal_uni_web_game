@@ -86,18 +86,15 @@
         </div>
         <h2 class="color-title text-uppercase font-flabby">About</h2>
         <div class="game-modal--content">
-          <h4 class="mt-5 font-weight-regular">Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-            Quia quod placeat necessitatibus ipsa esse beatae eligendi eos assumenda iure vel. 
-            Sed id ducimus nulla quasi distinctio in consequuntur repellendus. Odit.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-            Quia quod placeat necessitatibus ipsa esse beatae eligendi eos assumenda iure vel. 
-            Sed id ducimus nulla quasi distinctio in consequuntur repellendus. Odit.</h4>
-          <p class="mt-5">Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-            Quia quod placeat necessitatibus ipsa esse beatae eligendi eos assumenda iure vel. 
-            Sed id ducimus nulla quasi distinctio in consequuntur repellendus. Odit.
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-            Quia quod placeat necessitatibus ipsa esse beatae eligendi eos assumenda iure vel. 
-            Sed id ducimus nulla quasi distinctio in consequuntur repellendus. Odit.</p>
+          <h4 class="mt-5 font-weight-regular pl-4 pr-4">GEOBRA is derived from the words Geometry and Algebra which are branches of Mathematics. 
+            This game aimed to develop high schoolers’ understanding and appreciation for Mathematics through tackling its two major types-Geometry and Algebra. 
+            Mathematics can be a little intimidating sometimes especially when letters, different symbols, and functions are included in it. Problems also become much harder to solve. 
+            But as you learn the basics, you’ll be more confident in solving difficult mathematical problems. <br/><br/>
+            Teachers and parents can utilize this game as an assistive tool for the learning and instruction of their students. 
+            In playing this game, earn points by answering the questions and problems with varying levels of difficulty such as easy and intermediate. <br/><br/>
+            GEOBRA is a game-based learning platform that features Mathematical questions and problems, developed by a group of 4th year BTVTE-Visual Graphics Design students from Rizal Technological University-Mandaluyong City as compliance for their thesis. <br/><br/>
+            Learn more and further elevate your basic knowledge and skills in the subject while having fun!  
+          </h4>
         </div>
       </div>
     </div>
@@ -109,20 +106,32 @@
       </div>
       <h2 class="color-title text-uppercase font-flabby">Credits</h2>
       <div class="game-modal--content">
-        <h3 class="color-title mt-4 font-flabby text-uppercase">Designed By</h3>
-        <h4 class="mt-5 font-weight-regular">Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-          Quia quod placeat necessitatibus ipsa esse beatae eligendi eos assumenda iure vel. 
-          Sed id ducimus nulla quasi distinctio in consequuntur repellendus. Odit.
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h4>
-        <h3 class="color-title mt-4 font-flabby text-uppercase">Special Thanks</h3>
-        <h4 class="mt-5 font-weight-regular">Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-          Quia quod placeat necessitatibus ipsa esse beatae eligendi eos assumenda iure vel. 
-          Sed id ducimus nulla quasi distinctio in consequuntur repellendus. Odit.
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h4>
-        <h3 class="color-title mt-4 font-flabby text-uppercase">Question Reference</h3>
-        <h4 class="mt-5 font-weight-regular">Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-          Quia quod placeat necessitatibus ipsa esse beatae eligendi eos assumenda iure vel. 
-          Sed id ducimus nulla quasi distinctio in consequuntur repellendus.</h4>
+        <h3 class="color-title mt-4 font-flabby text-uppercase">Game Designer</h3>
+        <h4 class="mt-1 font-weight-regular">JESSIE REPOLLO</h4>
+        <h3 class="color-title mt-4 font-flabby text-uppercase">UI Designer</h3>
+        <h4 class="mt-1 font-weight-regular">ROMEO BRYAN BOLONIA</h4>
+        <h3 class="color-title mt-4 font-flabby text-uppercase">Sound Designer</h3>
+        <h4 class="mt-1 font-weight-regular">JESSE VIRAY JR.</h4>
+        <h3 class="color-title mt-4 font-flabby text-uppercase">UI Designer</h3>
+        <h4 class="mt-1 font-weight-regular">ROMEO BRYAN BOLONIA</h4>
+        <h3 class="color-title mt-4 font-flabby text-uppercase">Artists</h3>
+        <h4 class="mt-1 font-weight-regular">JHAN ESTEVINTH DIAZ <br/> CRIZZA ELAINE ILUSTRE <br/> MARIBEL TROPEL</h4>
+        <h3 class="color-title mt-4 font-flabby text-uppercase">SPECIAL THANKS</h3>
+        <h4 class="mt-1 font-weight-regular">
+          RODOLFO ALDEON JR. 
+          <br/><span class="font-weight-bold"><small>PROFESSOR</small></span><br/> 
+          KENNETH MARTINEZ
+          <br/><span class="font-weight-bold"><small>THESIS ADVISER </small></span>
+        </h4>
+        <h5 class="mt-6 font-weight-regular pl-5 pr-5">A RESEARCH PROPOSAL PRESENTED TO THE FACULTY OF THE
+          COLLEGE OF EDUCATION RIZAL TECHNOLOGICAL UNIVERSITY,
+          BONI AVENUE, MANDALUYONG CITY <br/><br/>IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR
+          THE DEGREE OF BACHELOR OF TECHNICAL-VOCATIONAL TEACHERS EDUCATION MAJOR IN 
+          VISUAL GRAPHICS DESIGN
+          <br/><br/>
+          S.Y. 2021-2022
+
+        </h5>
       </div>
     </div>
    </div>

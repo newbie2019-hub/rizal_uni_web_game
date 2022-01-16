@@ -5,42 +5,55 @@
    <h1 class="font-flabby letter-spacing-2x">Geometry</h1>
   </v-row> -->
   <v-row v-if="difficulty" class="text-center vh-100" justify="center" align="center">
-    <v-layout column align-center>
-      <v-col md="10" sm="10" lg="7" xl="5" >
-        <v-layout justify-space-between>
-          <p class="white--text text-h5">{{`Score: ${points}`}}</p>
-          <p class="white--text text-h5">{{`${questionIndex + 1} / ${data.length}`}}</p>
-        </v-layout>
-        <v-progress-linear class="border-white rounded-xl" :value="time" height="17" color="yellow lighten-1" rounded></v-progress-linear>
-        <img v-if="data.length > 0" class="mt-5 img-geometry" :src="require(`../assets/images/questions/geometry/${data[questionIndex].img}` )" alt="">
-        <!-- <div class="rectangle-shadow"></div> -->
-        <h2 v-if="data.length > 0" class="white--text font-flabby font-weight-regular mt-3">{{data[questionIndex].question}}</h2>
-        <v-layout v-if="data.length > 0" d-flex align-center justify-center class="mt-4">
-          <button @click.prevent="checkAnswer('a')" class="btn btn-game-choice rounded-xl font-flabby pt-2 pb-2 mr-4">
-            <v-icon v-show="isCorrect == 'a'" color="light-green darken-1" class="mr-2">mdi-check-all</v-icon>
-            {{data[questionIndex].choices.a}}
-          </button>
-          <button @click.prevent="checkAnswer('b')" class="btn btn-game-choice rounded-xl font-flabby pt-2 pb-2">
-            <v-icon v-show="isCorrect == 'b'" color="light-green darken-1" class="mr-2">mdi-check-all</v-icon>
-            {{data[questionIndex].choices.b}}
-          </button>
-        </v-layout>
-        <v-layout  v-if="data.length > 0" d-flex align-center justify-space-between class="mt-2">
-          <button @click.prevent="checkAnswer('c')" class="btn btn-game-choice rounded-xl font-flabby pt-2 pb-2 mr-4">
-            <v-icon v-show="isCorrect == 'c'" color="light-green darken-1" class="mr-2">mdi-check-all</v-icon>
-            {{data[questionIndex].choices.c}}
-          </button>
-          <button @click.prevent="checkAnswer('d')" :class="{'mr-4' : difficulty == 'intermediate'}" class="btn btn-game-choice rounded-xl font-flabby pt-2 pb-2">
-            <v-icon v-show="isCorrect == 'd'" color="light-green darken-1" class="mr-2">mdi-check-all</v-icon>
-            {{data[questionIndex].choices.d}}
-          </button>
-          <button v-if="difficulty == 'intermediate'" @click.prevent="checkAnswer('e')" class="btn btn-game-choice rounded-xl font-flabby pt-2 pb-2">
-            <v-icon v-show="isCorrect == 'e'" color="light-green darken-1" class="mr-2">mdi-check-all</v-icon>
-            {{data[questionIndex].choices.e}}
-          </button>
-        </v-layout>
-      </v-col>
-    </v-layout>
+    <v-col cols="11" md="9" sm="9" lg="7" xl="5" class="vh-100">
+      <div class="heading-container">
+        <div class="mt-2">
+          <a href="" @click.prevent="$router.push('/')">
+            <img src="@/assets/images/backbtn.png" alt="" class="img-return">
+          </a>
+          <div class="score-level">
+            <p class="white--text font-flabby text-score">{{`Score: ${points}`}}</p>
+            <p class="white--text font-flabby text-score">{{`${questionIndex + 1} / ${data.length}`}}</p>
+          </div>
+          <div class="progress-bar">
+            <v-progress-linear class="border-white rounded-xl" :value="time" height="18" color="yellow lighten-1" rounded></v-progress-linear>
+          </div>
+        </div>
+        <div>
+          <div class="img-geometry-container">
+            <img v-if="data.length > 0" class="mt-5 img-geometry" :src="require(`../assets/images/questions/geometry/${data[questionIndex].img}` )" alt="">
+            <div class="rectangle-shadow"></div>
+          </div>
+          <h2 v-if="data.length > 0" class="white--text font-flabby font-weight-regular mt-5">{{data[questionIndex].question}}</h2>
+        </div>
+        <div>
+          <v-layout v-if="data.length > 0" d-flex align-center justify-center class="mt-4 w-100">
+            <button @click.prevent="checkAnswer('a')" class="btn btn-game-choice rounded-xl font-flabby pt-2 pb-2 mr-4">
+              <v-icon v-show="isCorrect == 'a'" color="light-green darken-1" class="mr-2">mdi-check-all</v-icon>
+              {{data[questionIndex].choices.a}}
+            </button>
+            <button @click.prevent="checkAnswer('b')" class="btn btn-game-choice rounded-xl font-flabby pt-2 pb-2">
+              <v-icon v-show="isCorrect == 'b'" color="light-green darken-1" class="mr-2">mdi-check-all</v-icon>
+              {{data[questionIndex].choices.b}}
+            </button>
+          </v-layout>
+          <v-layout  v-if="data.length > 0" d-flex align-center justify-space-between class="mt-2 w-100">
+            <button @click.prevent="checkAnswer('c')" class="btn btn-game-choice rounded-xl font-flabby pt-2 pb-2 mr-4 d-block">
+              <v-icon v-show="isCorrect == 'c'" color="light-green darken-1" class="mr-2">mdi-check-all</v-icon>
+              {{data[questionIndex].choices.c}}
+            </button>
+            <button @click.prevent="checkAnswer('d')" :class="{'mr-4' : difficulty == 'intermediate'}" class="btn btn-game-choice rounded-xl font-flabby pt-2 pb-2 d-block">
+              <v-icon v-show="isCorrect == 'd'" color="light-green darken-1" class="mr-2">mdi-check-all</v-icon>
+              {{data[questionIndex].choices.d}}
+            </button>
+            <button v-if="difficulty == 'intermediate'" @click.prevent="checkAnswer('e')" class="btn btn-game-choice rounded-xl font-flabby pt-2 pb-2 d-block">
+              <v-icon v-show="isCorrect == 'e'" color="light-green darken-1" class="mr-2">mdi-check-all</v-icon>
+              {{data[questionIndex].choices.e}}
+            </button>
+          </v-layout>
+        </div>
+      </div>
+    </v-col>
   </v-row>
 
   
@@ -99,7 +112,7 @@
         <h4 class="mt-5 font-weight-regular">You'll have 10 seconds to <br/> answer each question. <br/><br/> Name what type of Geometric <br/> shape is shown. <br/><br/> Choose your answer among <br/>the choices.</h4>
       </div>
       <div class="gamemode-modal--btn">
-        <button @click.prevent="startGame" class="btn btn-game rounded-xl pt-2 pb-2 font-flabby text-uppercase">Start</button>
+        <button @click.prevent="startGame" class="btn btn-game rounded-xl pt-2 pb-2 pl-4 pr-4 font-flabby text-uppercase">Start</button>
       </div>
     </div>
   </div>
@@ -114,7 +127,7 @@
         <h4 class="mt-5 font-weight-regular">You'll have 25 seconds to <br/> answer each question. <br/><br/> Find the area of the given <br/>shape and dimension <br/><br/> Choose your answer among <br/>the choices.</h4>
       </div>
       <div class="gamemode-modal--btn">
-        <button @click.prevent="startGame" class="btn btn-game rounded-xl pt-2 pb-2 font-flabby text-uppercase">Start</button>
+        <button @click.prevent="startGame" class="btn btn-game rounded-xl pt-2 pb-2 pl-4 pr-4 font-flabby text-uppercase">Start</button>
       </div>
     </div>
   </div>
@@ -155,7 +168,15 @@ export default {
     this.jsonData = this.difficulty == 'easy' ? geoEasyData : geoInterData
     this.difficultyTimer = this.difficulty == 'easy' ? 95 : 240
     
-    const array = Array(10).fill().map(() => Math.floor(Math.random() * 49) + 1); 
+    // const array = Array(10).fill().map(() => Math.floor(Math.random() * 49) + 1); 
+    let array = []
+    while(array.length < 10){
+      var r = Math.floor(Math.random() * 49) + 1;
+      if(array.indexOf(r) === -1) array.push(r);
+    }
+
+    // console.log(array)
+
     this.jsonData.map(data => {
       array.forEach(val => {
         if(data.questionId == val){
@@ -179,6 +200,7 @@ export default {
     this.time = 100
     this.points = 0
     this.score = 0
+    this.difficulty = null
     this.questionIndex = 0
     this.dialogGameDifficulty = true
     this.data = []
