@@ -7,7 +7,10 @@
    <v-row align="center" justify="center" class="mt-8">
      <img src="@/assets/images/logo.png" alt="" class="img-logo">
      <img src="@/assets/images/landscape.png" alt="" class="img-landscape">
-     <img src="@/assets/images/landscape-bottom-props1.png" alt="" class="img-landscape-props">
+     <picture>
+        <source media="(max-width: 768px)" srcset="@/assets/images/landscape-props-md.png" class="img-landscape-props">
+        <img src="@/assets/images/landscape-props.png" alt="Chris standing up holding his daughter Elva" class="img-landscape-props">
+      </picture>
      <img src="@/assets/images/cloud1.png" alt="" class="cloud-1">
      <img src="@/assets/images/cloud2.png" alt="" class="cloud-2">
      <img src="@/assets/images/cloud2.png" alt="" class="cloud-3">
@@ -17,7 +20,24 @@
      <img src="@/assets/images/circle.png" alt="" class="img-circle">
      <img src="@/assets/images/cone.png" alt="" class="img-cone">
      <img src="@/assets/images/cube.png" alt="" class="img-cube">
-     <div class="playbtn-container">
+     <div class="btn-container">
+       <a href="" @click.prevent="startGame">
+         <img src="@/assets/images/playbtn.png" alt="" class="img-playbtn d-inline">
+       </a>
+      <v-layout>
+        <a href="" @click.prevent="setAudioVolume" class="mt-n4">
+         <img src="@/assets/images/audio.png" alt="" class="img-optionbtn">
+        </a>
+        <a href="" @click.prevent="dialogCredits = true" class="mt-4 ml-1 mr-1">
+         <img src="@/assets/images/creditsbtn.png" alt="" class="img-optionbtn">
+        </a>
+        <a href="" @click.prevent="dialog = true" class="mt-n4">
+         <img src="@/assets/images/aboutbtn.png" alt="" class="img-optionbtn">
+        </a>
+      </v-layout>
+     </div>
+
+     <!-- <div class="playbtn-container">
        <button @click.prevent="startGame" class="btn btn-game rounded-circle">
          <i class="fas fa-play fa-4x ml-2"></i>
        </button>
@@ -41,7 +61,7 @@
           <i class="fas fa-question fa-2x "></i>
         </button>
        </div>
-     </div>
+     </div> -->
    </v-row>
 
     <div v-show="dialogGame" class="modal-container">
