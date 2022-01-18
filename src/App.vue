@@ -7,7 +7,6 @@
 </template>
 <script>
 
-
 export default{
   mounted(){
     
@@ -18,13 +17,13 @@ export default{
 <style>
 .scale-enter-active,
 .scale-leave-active {
-  transition: all 0.5s ease;
+  transition: all 0.3s ease;
 }
 
 
 .scale-enter-from,
 .scale-leave-to {
-  opacity: 0;
+  opacity: .7;
   transform: scale(0.9);
 }
 </style>

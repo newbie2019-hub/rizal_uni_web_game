@@ -11,7 +11,8 @@
     },
     "correctAnswer": "c",
     "img": "8yd.png",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 8yd<br/> = 8 yd2<br/> = (8 yd)(8 yd)<br/> = 64 yd2</p>"
   },
   {
     "questionId": 2,
@@ -25,7 +26,8 @@
     },
     "correctAnswer": "d",
     "img": "6ft.png",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 6ft<br/> = 6ft2 = (6 ft)(6 ft)<br/> = 36ft2</p>"
   },
   {
     "questionId": 3,
@@ -39,7 +41,8 @@
     },
     "correctAnswer": "e",
     "img": "12in.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 12in<br/> = 12in2<br/> = (12 in)(12 in)<br/> = 144in2</p>"
   },
   {
     "questionId": 4,
@@ -53,7 +56,8 @@
     },
     "correctAnswer": "b",
     "img": "18ft.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 18ft<br/> = 18ft2<br/> = (18 ft)(18 ft)<br/> = 324 ft2</p>"
   },
   {
     "questionId": 5,
@@ -67,7 +71,8 @@
     },
     "correctAnswer": "b",
     "img": "11in.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 11in <br/> = 11in2 <br/> = (11 in)(11 in)<br/> = 121in2</p>"
   },
   {
     "questionId": 6,
@@ -81,7 +86,8 @@
     },
     "correctAnswer": "d",
     "img": "2yd.png",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 2yd<br/> = 2yd2<br/> = (2 yd)(2 yd)<br/> = 4 yd2</p>"
   },
   {
     "questionId": 7,
@@ -95,7 +101,8 @@
     },
     "correctAnswer": "b",
     "img": "9in.png",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 9in<br/> = 9in2<br/> = (9 in)(9 in)<br/> = 81in2</p>"
   },
   {
     "questionId": 8,
@@ -109,7 +116,8 @@
     },
     "correctAnswer": "e",
     "img": "3yd.png",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 3yd<br/> = 3yd2<br/>= (3 yd)(3 yd)<br/> = 9yd2</p>"
   },
   {
     "questionId": 9,
@@ -123,7 +131,8 @@
     },
     "correctAnswer": "d",
     "img": "17ft.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 17ft<br/> = 17ft2<br/> = (17 ft)(17 ft)<br/> = 289ft2</p>"
   },
   {
     "questionId": 10,
@@ -137,7 +146,8 @@
     },
     "correctAnswer": "c",
     "img": "4ft.png",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 4ft<br/> = 4ft2<br/> = (4 ft)(4 ft)<br/> = 16ft2</p>"
   },
   {
     "questionId": 11,
@@ -151,7 +161,8 @@
     },
     "correctAnswer": "c",
     "img": "10in.png",
-	"points": "280"
+	"points": "280",
+    "solution": "<p class=\"text-h5 lh-solution\">a = 10in<br/> = 10in2<br/> = (10 in)(10 in)<br/> = 100in2</p>"
   },
   {
     "questionId": 12,
@@ -165,21 +176,23 @@
     },
     "correctAnswer": "d",
     "img": "2yd.png",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 2yd<br/> = 2yd2<br/> = (2 yd)(2 yd)<br/> = 4yd2</p>"
   },
   {
     "questionId": 13,
     "question": "Calculate the area of the square by plugging in the value of the side length (a) in the formula Area = a2",
     "choices": {
       "a": "7 yd",
-      "b": "49 in²",
-      "c": "14 in²",
+      "b": "49 yd²",
+      "c": "14 yd²",
       "d": "28 in²",
       "e": "14 in"
     },
     "correctAnswer": "b",
-    "img": "7in.png",
-	"points": "180"
+    "img": "7yd.png",
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 7yd<br/> = 7yd2<br/> = (7 yd)(7 yd)<br/> = 49yd2</p>"
   },
   {
     "questionId": 14,
@@ -193,7 +206,8 @@
     },
     "correctAnswer": "e",
     "img": "20ft.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 20ft<br/> = 20ft2<br/> = (20 ft)(20 ft)<br/> = 400ft2</p>"
   },
   {
     "questionId": 15,
@@ -207,7 +221,8 @@
     },
     "correctAnswer": "d",
     "img": "19ft.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 19ft<br/> = 19ft2<br/> = (19 ft)(19 ft)<br/> = 361ft2</p>"
   },
   {
     "questionId": 16,
@@ -221,7 +236,8 @@
     },
     "correctAnswer": "b",
     "img": "15in.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 15in = 15in2<br/> = (15 in)(15 in)<br/> = 225in2</p>"
   },
   {
     "questionId": 17,
@@ -235,7 +251,8 @@
     },
     "correctAnswer": "e",
     "img": "3yd.png",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 3yd<br/> = 3yd2<br/> = (3 yd)(3 yd)<br/> = 9yd2</p>"
   },
   {
     "questionId": 18,
@@ -249,7 +266,8 @@
     },
     "correctAnswer": "e",
     "img": "6yd.png",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 6 yd<br/> = 6yd2<br/> = (6 yd)(6 yd)<br/> = 36yd2</p>"
   },
   {
     "questionId": 19,
@@ -263,7 +281,8 @@
     },
     "correctAnswer": "c",
     "img": "5in.png",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 5in<br/> = 5 in2<br/> = (5 in)(5 in)<br/> = 25in2</p>"
   },
   {
     "questionId": 20,
@@ -277,7 +296,8 @@
     },
     "correctAnswer": "b",
     "img": "14ft.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 14ft<br/> = 14ft2<br/> = (14 ft)(14 ft)<br/> = 196ft2</p>"
   },
   {
     "questionId": 21,
@@ -291,7 +311,8 @@
     },
     "correctAnswer": "b",
     "img": "16ft.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 16ft<br/> = 16ft2<br/> = (16 ft)(16 ft)<br/> = 256ft2</p>"
   },
   {
     "questionId": 22,
@@ -305,7 +326,8 @@
     },
     "correctAnswer": "d",
     "img": "11yd.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 11 yd<br/> = 11yd2<br/> = (11 yd)(11 yd)<br/> = 121yd2</p>"
   },
   {
     "questionId": 23,
@@ -319,7 +341,8 @@
     },
     "correctAnswer": "c",
     "img": "15yd.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 15 yd<br/> = 15yd2<br/> = (15 yd)(15 yd)<br/> = 225yd2</p>"
   },
   {
     "questionId": 24,
@@ -333,7 +356,8 @@
     },
     "correctAnswer": "c",
     "img": "12ft.png",
-	"points": "280"
+    "points": "280",
+    "solution": "<p class=\"text-h5 lh-solution\">a = 12ft<br/> = 12ft2<br/> = (12 ft)(12 ft)<br/> = 144ft2</p>"
   },
   {
     "questionId": 25,
@@ -347,7 +371,8 @@
     },
     "correctAnswer": "b",
     "img": "4in.png",
-	"points": "180"
+    "points": "180",
+    "solution": "<p class=\"text-h5 lh-solution\">a = 4in<br/> = 4in2<br/> = (4 in)(4 in)<br/> = 16in2</p>"
   },
   {
     "questionId": 26,
@@ -361,7 +386,8 @@
     },
     "correctAnswer": "d",
     "img": "20ft.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 20ft<br/> = 20ft2<br/> = (20 ft)(20 ft)<br/> = 400ft2</p>"
   },
   {
     "questionId": 27,
@@ -375,7 +401,8 @@
     },
     "correctAnswer": "e",
     "img": "7in.png",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 7in<br/> = 7in2<br/> = (7 in)(7 in)<br/> = 49in2</p>"
   },
   {
     "questionId": 28,
@@ -389,7 +416,8 @@
     },
     "correctAnswer": "c",
     "img": "9in.png",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 9in<br/> = 9in2<br/> = (9 in)(9 in)<br/> = 81in2</p>"
   },
   {
     "questionId": 29,
@@ -403,7 +431,8 @@
     },
     "correctAnswer": "d",
     "img": "14in.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 14in<br/> = 14in2<br/> = (14 in)(14 in)<br/> = 196in2</p>"
   },
   {
     "questionId": 30,
@@ -417,7 +446,8 @@
     },
     "correctAnswer": "e",
     "img": "10yd.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 10yd<br/> = 10yd2<br/> = (10 yd)(10 yd)<br/> = 100yd2</p>"
   },
   {
     "questionId": 31,
@@ -431,7 +461,8 @@
     },
     "correctAnswer": "b",
     "img": "13yd.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 13yd<br/> = 13yd2<br/> = (13 yd)(13 yd)<br/> = 169yd</p>"
   },
   {
     "questionId": 32,
@@ -445,7 +476,8 @@
     },
     "correctAnswer": "c",
     "img": "16yd.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 16yd<br/> = 16yd2<br/> = (16 yd)(16 yd)<br/> = 256yd2</p>"
   },
   {
     "questionId": 33,
@@ -459,7 +491,8 @@
     },
     "correctAnswer": "d",
     "img": "6ft.png",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 6ft<br/> = 6ft2<br/> = (6 ft)(6 ft)<br/> = 36ft2</p>"
   },
   {
     "questionId": 34,
@@ -473,7 +506,8 @@
     },
     "correctAnswer": "b",
     "img": "17in.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 17yd<br/> = 17yd2<br/> = (17 yd)(17 yd)<br/> = 289yd2</p>"
   },
   {
     "questionId": 35,
@@ -487,7 +521,8 @@
     },
     "correctAnswer": "d",
     "img": "15in.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 15in<br/> = 15in2<br/> = (15 in)(15 in)<br/> = 225in2</p>"
   },
   {
     "questionId": 36,
@@ -501,7 +536,8 @@
     },
     "correctAnswer": "b",
     "img": "8ft.png",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 8ft<br/> = 8ft2<br/> = (8 ft)(8 ft)<br/> = 64ft2</p>"
   },
   {
     "questionId": 37,
@@ -515,7 +551,8 @@
     },
     "correctAnswer": "b",
     "img": "21yd.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 21yd<br/> = 21yd2<br/> = (21 yd)(21 yd)<br/> = 441yd2</p>"
   },
   {
     "questionId": 38,
@@ -529,7 +566,8 @@
     },
     "correctAnswer": "d",
     "img": "12in.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 12in<br/> = 12in2<br/> = (12 in)(12 in)<br/> = 144in2</p>"
   },
   {
     "questionId": 39,
@@ -543,7 +581,8 @@
     },
     "correctAnswer": "c",
     "img": "19ft.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 19ft<br/> = 19ft2<br/> = (19 ft)(19 ft)<br/> = 361ft2</p>"
   },
   {
     "questionId": 40,
@@ -557,7 +596,8 @@
     },
     "correctAnswer": "c",
     "img": "5in.png",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 5in<br/> = 5in2<br/> = (5 in)(5 in)<br/> = 25in2</p>"
   },
   {
     "questionId": 41,
@@ -571,7 +611,8 @@
     },
     "correctAnswer": "e",
     "img": "23yd.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 23yd<br/> = 23yd2<br/> = (23 yd)(23 yd)<br/> = 529yd2</p>"
   },
   {
     "questionId": 42,
@@ -585,7 +626,8 @@
     },
     "correctAnswer": "b",
     "img": "72ft.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 72ft<br/> = 72ft2<br/> = (72 ft)(72 ft)<br/> = 5,184ft2</p>"
   },
   {
     "questionId": 43,
@@ -599,7 +641,8 @@
     },
     "correctAnswer": "e",
     "img": "33ft.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 33ft<br/> = 33ft2<br/> = (33 ft)(33 ft)<br/> = 1,089ft2</p>"
   },
   {
     "questionId": 44,
@@ -613,7 +656,8 @@
     },
     "correctAnswer": "b",
     "img": "17in.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 17in<br/> = 17in2<br/> = (17 in)(17 in)<br/> = 289in</p>"
   },
   {
     "questionId": 45,
@@ -627,7 +671,8 @@
     },
     "correctAnswer": "e",
     "img": "20in.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 20in<br/> = 20in2<br/> = (20 in)(20 in)<br/> = 400in2</p>"
   },
   {
     "questionId": 46,
@@ -641,7 +686,8 @@
     },
     "correctAnswer": "c",
     "img": "32yd.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 32yd<br/> = 32yd2<br/> = (32 yd)(32 yd)<br/> = 1,034yd2</p>"
   },
   {
     "questionId": 47,
@@ -655,7 +701,8 @@
     },
     "correctAnswer": "c",
     "img": "30yd.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 30yd<br/> = 30yd2<br/> = (30 yd)(30 yd)<br/> = 900yd2</p>"
   },
   {
     "questionId": 48,
@@ -669,7 +716,8 @@
     },
     "correctAnswer": "c",
     "img": "13yd.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 13yd<br/> = 13yd2<br/> = (13 yd)(13 yd)<br/>= 169yd2</p>"
   },
   {
     "questionId": 49,
@@ -682,8 +730,9 @@
       "e": "3,996 ft²"
     },
     "correctAnswer": "c",
-    "img": "72ft.png",
-	"points": "280"
+    "img": "63ft.png",
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 63ft<br/> = 63ft2<br/> = (63 ft)(63 ft)<br/> = 3,969ft2</p>"
   },
   {
     "questionId": 50,
@@ -697,6 +746,7 @@
     },
     "correctAnswer": "c",
     "img": "82in.png",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">a = 82ft<br/> = 82ft2<br/> = (82 ft)(82 ft)<br/> = 6,724ft2</p>"
   }
 ]

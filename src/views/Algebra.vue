@@ -112,14 +112,12 @@
      <v-col lg="10">
       <button
        @click.prevent="setGame('easy')"
-       class="btn btn-game-option btn-game-option--geometry font-flabby rounded-md w-100"
-      >
+       class="btn btn-game-option btn-game-option--geometry font-flabby rounded-md w-100">
        Easy
       </button>
       <button
        @click.prevent="setGame('intermediate')"
-       class="btn btn-game-option btn-game-option--algebra mt-4 font-flabby rounded-md w-100"
-      >
+       class="btn btn-game-option btn-game-option--algebra mt-4 font-flabby rounded-md w-100">
        Intermediate
       </button>
      </v-col>
@@ -129,6 +127,11 @@
 
   <div v-show="dialogScore" class="modal-container-score">
    <div class="gamescore-modal">
+    <div class="gamescore-solution">
+      <button @click.prevent="dialogScore = false; dialogSolutions = true" class="btn rounded-circle btn-game pa-3">
+        &nbsp;<i class="far fa-lightbulb fa-2x"></i> &nbsp;
+      </button>
+    </div>
     <div class="gamescore-modal--close">
      <button @click.prevent="returnHome" class="btn btn-game pl-4 pr-4 pt-2 pb-2 rounded-circle">X</button>
     </div>
@@ -151,6 +154,25 @@
     <button @click.prevent="restartGame" class="btn rounded-circle btn-game pa-4">
      <i class="fas fa-redo-alt fa-2x invert-icon"></i>
     </button>
+   </div>
+  </div>
+
+  <div v-show="dialogSolutions" class="modal-container">
+   <div class="gamemode-modal">
+    <div class="gamemode-modal--close">
+      <button @click.prevent="dialogSolutions = false; dialogScore = true;" class="btn btn-game pl-4 pr-4 pt-2 pb-2 rounded-circle">X</button>
+    </div>
+    <h2 class="color-title text-uppercase font-flabby">Solutions</h2>
+    <div class="gamemode-modal--content">
+      <v-carousel hide-delimiters height="260">
+        <v-carousel-item
+          v-for="(item, i) in data"
+          :key="i"
+          :src="item.src"
+          class="center-content pt-8"
+        ><div><p class="text-h5 mt-2">Problem #{{i + 1}}</p><p v-html="item.solution"></p></div></v-carousel-item>
+      </v-carousel>
+    </div>
    </div>
   </div>
 
@@ -210,6 +232,7 @@
     isCorrect: null,
     dialogScore: false,
     dialogGameDifficulty: true,
+    dialogSolutions: false,
     dialogEasy: false,
     dialogIntermediate: false,
     difficulty: null,

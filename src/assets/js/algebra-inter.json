@@ -9,7 +9,8 @@
       "d": "3 + 1x"
     },
     "correctAnswer": "c",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">3(x+1)<br/> = (3)(x+1)<br/> = (3)(x)<br/> = (3)(1)<br/> = 3x+3</p>"
   },
   {
     "questionId": 2,
@@ -21,7 +22,8 @@
       "d": "4a + 8"
     },
     "correctAnswer": "d",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">4(a+2)<br/> = (4)(a+2)<br/> = (4)(a)<br/> = (4)(2)<br/> = 4a+8</p>"
   },
   {
     "questionId": 3,
@@ -33,7 +35,8 @@
       "d": "6x + 5y"
     },
     "correctAnswer": "a",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">5(x  + y)<br/> = (5)(x+y)<br/> = (5)(x)<br/> = (5)(y)<br/> = 5x+5y</p>"
   },
   {
     "questionId": 4,
@@ -45,7 +48,8 @@
       "d": "a10 – 10b"
     },
     "correctAnswer": "c",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">10(a – b)<br/> = (10)(a-b)<br/> = (10)(a)<br/> = (10)(-b)<br/> = 10a-10b<p class=\"text-h5 lh-solution\">"
   },
   {
     "questionId": 5,
@@ -57,7 +61,8 @@
       "d": "2x + xy"
     },
     "correctAnswer": "b",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">x(–2 + y)<br/> = (x)(-2+y)<br/> = (x)(-2)<br/> = (x)(y)<br/> = -2x+xy</p>"
   },
   {
     "questionId": 6,
@@ -69,7 +74,8 @@
       "d": "30 – 6y"
     },
     "correctAnswer": "b",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">–6(5 – y)<br/> = (-6)(5-y)<br/> = (-6)(5)<br/> = (-6)(-y)<br/> = -30+6y</p>"
   },
   {
     "questionId": 7,
@@ -81,7 +87,8 @@
       "d": "2x2 + 4x"
     },
     "correctAnswer": "d",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">2x(x + 2)<br/> = (2x)(x+2)<br/> = (2x)(x)<br/> = (2x)(2)<br/> = 2x²+4x<p class=\"text-h5 lh-solution\">"
   },
   {
     "questionId": 8,
@@ -93,7 +100,8 @@
       "d": "3x + 6yx"
     },
     "correctAnswer": "a",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">3x(x + 2y)<br/> = (3x)(x+2y)<br/> = (3x)(x)<br/> = (3x)(2y)<br/> = 3x²+6xy</p>"
   },
   {
     "questionId": 9,
@@ -117,7 +125,8 @@
       "d": "5ax + 5 xb"
     },
     "correctAnswer": "c",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">5x (a + b)<br/> = (5x)(a + b)<br/> = (5x)(a) + (5x)(b)<br/> = 5ax + 5bx</p>"
   },
   {
     "questionId": 11,
@@ -129,7 +138,8 @@
       "d": "12xa+ 6ya"
     },
     "correctAnswer": "a",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">3a (4x + 2y)<br/> = (3a)(4x) + (3a)(2y)<br/> = 12ax + 6ay</p>"
   },
   {
     "questionId": 12,
@@ -141,7 +151,8 @@
       "d": "8ma + 20bm"
     },
     "correctAnswer": "b",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">–4m(–2a – 5b)<br/> = (-4m)(-2a-5b)<br/> = (-4m)(-2a)<br/> = (-4m) (-5b)<br/> = 8ma + 20mb</p>"
   },
   {
     "questionId": 13,
@@ -153,7 +164,8 @@
       "d": "2xya+ 2x2y2"
     },
     "correctAnswer": "d",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">2xy(a + xy)<br/> = (2xy)(a + xy)<br/> = (2xy)(a)<br/> = (2xy)(xy)<br/> = 2xya + 2x2y2</p>"
   },
   {
     "questionId": 14,
@@ -165,7 +177,8 @@
       "d": "12x2 + 3x2"
     },
     "correctAnswer": "a",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">3x2(4x + 1)<br/> = (3x2)(4x + 1)<br/> = (3x2)(4x)<br/> = (3x2)(1)<br/> = 12x3 + 3x2</p>"
   },
   {
     "questionId": 15,
@@ -177,7 +190,8 @@
       "d": "21x3 + 14x2"
     },
     "correctAnswer": "b",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">-7x2(3x + 2)<br/> = (-7x2) (3x + 2)<br/> = (-7x2) (3x) + (-7x2) (2)<br/> = -21x3  - 14x2</p>"
   },
   {
     "questionId": 16,
@@ -189,7 +203,8 @@
       "d": "8x4 – 4x3 "
     },
     "correctAnswer": "d",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">4x3(2x – 1)<br/> = (4x3)(2x - 1)<br/> = (4x3)(2x)= (4x3)(-1)<br/> = 8x4  - 4x3</p>"
   },
   {
     "questionId": 17,
@@ -201,7 +216,8 @@
       "d": "2x3y2 + 3y3x2"
     },
     "correctAnswer": "a",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">x2y2(2x + 3y)<br/> = (x2y2) (2x + 3y)<br/> = (x2y2) (2x) + (x2y2) (3y)<br/> = 2x3 y2 + 3x2y3</p>"
   },
   {
     "questionId": 18,
@@ -213,7 +229,8 @@
       "d": "21x3y3 + 6x2y3 "
     },
     "correctAnswer": "a",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">-3x2y3 (7x – 2)<br/> = (-3x2y3)(7x – 2)<br/> = (-3x2y3)(7x)<br/>= (-3x2y3)(-2)<br/> = -21x3 y3 + 6x2y3</p>"
   },
   {
     "questionId": 19,
@@ -225,7 +242,8 @@
       "d": "-10x5y6 + 20x4y9"
     },
     "correctAnswer": "d",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">5x3y6(-2x2 + 4xy3)<br/> = (5x3y6)(-2x2 + 4xy3)<br/> = (5x3y6)(-2x2)<br/> = (5x3y6)(4xy3)<br/> = -10x5y6 + 20x4y9</p>"
   },
   {
     "questionId": 20,
@@ -237,7 +255,8 @@
       "d": "-8x5y6 – 14x4y8"
     },
     "correctAnswer": "a",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">-2x2y5(–4x3y – 7x2y3)<br/> = (-2x2y5)(–4x3y) –7x2y3)<br/> = (-2x2y5)(–4x3y)<br/> = (-2x2y5)(-7x2y3)<br/> = 8x5y6 + 14x4y8</p>"
   },
   {
     "questionId": 21,
@@ -249,7 +268,8 @@
       "d": "8 + w18"
     },
     "correctAnswer": "c",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">2 (4 + 9w)<br/> = (2)(4 + 9w)<br/> = (2)(4)<br/> = (2)(9w)<br/> = 8 + 18w</p>"
   },
   {
     "questionId": 22,
@@ -261,7 +281,8 @@
       "d": "16d – 20"
     },
     "correctAnswer": "b",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">-4 (-4d - 5)<br/> = (-4)(-4d - 5)<br/> = (-4)(-4d)<br/> = (-4)(-5)<br/> = 16d + 20</p>"
   },
   {
     "questionId": 23,
@@ -273,7 +294,8 @@
       "d": "10 + 25m"
     },
     "correctAnswer": "c",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\"> (2 - 5m)(-5)<br/> = (2 - 5m)(-5)<br/> = (2)(-5)<br/> = (-5m)(-5)<br/> = -10 + 25m</p>"
   },
   {
     "questionId": 24,
@@ -285,7 +307,8 @@
       "d": "6v – 16"
     },
     "correctAnswer": "d",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">2 (3v - 8)<br/> = (2)(3v - 8)<br/> = (2)(3v) = (2)(-8)<br/> = 6v – 16</p>"
   },
   {
     "questionId": 25,
@@ -297,7 +320,8 @@
       "d": "16 + 8x"
     },
     "correctAnswer": "a",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">(−4)(4 − 2𝑥)<br/> = (−4)(4 − 2𝑥)<br/> = (−4)(4)<br/> = (−4)(2𝑥)<br/> = -16 + 8x</p>"
   },
   {
     "questionId": 26,
@@ -309,7 +333,8 @@
       "d": "10 + 25m"
     },
     "correctAnswer": "c",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">(2 - 5m)(-5)<br/> = (2 - 5m)(-5)<br/> = (2)(-5)<br/> = (-5m)(-5)<br/> = -10 + 25m<p class=\"text-h5 lh-solution\">"
   },
   {
     "questionId": 27,
@@ -321,7 +346,8 @@
       "d": "6x + 2"
     },
     "correctAnswer": "b",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">(−6𝑥 + 2)(−1)<br/> = (−6𝑥 + 2)(−1)<br/> = (−6𝑥)(-1)<br/> = ( 2)(−1)<br/> = 6x – 2</p>"
   },
   {
     "questionId": 28,
@@ -333,7 +359,8 @@
       "d": "-5x + 10"
     },
     "correctAnswer": "d",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">(−5)(𝑥 − 2)<br/>  = (-5)(x + -2)<br/> = (-5)(x) + (-5)(-2)<br/>  = -5x + 10<p class=\"text-h5 lh-solution\">"
   },
   {
     "questionId": 29,
@@ -345,7 +372,8 @@
       "d": "24 + 4x"
     },
     "correctAnswer": "c",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">2 (12 + 2𝑥)<br/> = (2)(12) + (2)(2𝑥)<br/> = 24 + 4x<p class=\"text-h5 lh-solution\">"
   },
   {
     "questionId": 30,
@@ -357,7 +385,8 @@
       "d": "60x + 70"
     },
     "correctAnswer": "a",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">(-12x + 14)(-5)<br/> = (-12x + 14)(-5)<br/> = (-12x)(-5) + (14)(-5)<br/> = 60x – 70</p>"
   },
   {
     "questionId": 31,
@@ -369,7 +398,8 @@
       "d": "-16x + 13"
     },
     "correctAnswer": "d",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">(−5)(4𝑥 − 1) + 4 (𝑥 + 2)<br/> = (−5)(4𝑥) + (-5)(− 1) + (4)(𝑥) + (4)(2)<br/> = -20x + 5 + 4x + 8<br/> = -20x + 5 + 4x + 8<br/> = (-20x + 4x) + (5 + 8)<br/> = -16x + 13</p>"
   },
   {
     "questionId": 32,
@@ -381,7 +411,8 @@
       "d": "-6x + 14"
     },
     "correctAnswer": "b",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">(−3)(𝑥 + 4) − (2 + 3𝑥)<br/> = -3 (x+4) + (-1)(2+3x)<br/> = -3 (x+4) + (-1)(2)+ (-1)(3x)<br/> = -3 (x+4) + -2+ -3x<br/> = (-3)(x) + (-3)(4) + -2 + -3x<br/> = -3x + -12 + -2 + -3x<br/> = -3x + -12 + -2 + -3x<br/> = (-3x + -3x) + (-12 + -2)<br/> = -6x + -14<br/> = -6x – 14</p>"
   },
   {
     "questionId": 33,
@@ -393,7 +424,8 @@
       "d": "90 – 18x"
     },
     "correctAnswer": "d",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">(10 − 2𝑥) 9<br/> = (10)(9) + (-2𝑥)(9)<br/> = 90 – 18x<br/> = -18x + 90<p class=\"text-h5 lh-solution\">"
   },
   {
     "questionId": 34,
@@ -405,7 +437,8 @@
       "d": "-10 + 90x"
     },
     "correctAnswer": "d",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">(1 − 9𝑥)(-10)<br/> = (1 − 9𝑥)(-10)<br/> = (1 )(-10)<br/> = ( -9𝑥)(-10)<br/> = -10 + 90x</p>"
   },
   {
     "questionId": 35,
@@ -417,7 +450,8 @@
       "d": "55x –10"
     },
     "correctAnswer": "b",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">(−5)(11𝑥 − 2)<br/> = (−5)(11𝑥) + (-5)(-2)<br/> = -55x + 10</p>"
   },
   {
     "questionId": 36,
@@ -429,7 +463,8 @@
       "d": "-6x + 48"
     },
     "correctAnswer": "a",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">(−6)(𝑥 + 8)<br/> = (−6)(𝑥 + 8)<br/> = (−6)(𝑥)<br/> = (−6)( 8)<br/> = -6x – 48<p class=\"text-h5 lh-solution\">"
   },
   {
     "questionId": 37,
@@ -441,7 +476,8 @@
       "d": "32 + 24x"
     },
     "correctAnswer": "b",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">(−4 + 3𝑥)(−8)<br/> = (−4 + 3𝑥)(−8)<br/> = (−4)(−8)<br/> = (3𝑥)(−8)<br/> = 32 – 24x</p>"
   },
   {
     "questionId": 38,
@@ -453,7 +489,8 @@
       "d": "5 – 55x"
     },
     "correctAnswer": "a",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">(−5)(1 − 11𝑥)<br/> = (−5)(1 − 11𝑥)<br/> = (−5)(1)<br/> = (−5)(-11𝑥)<br/> = -5 + 55x</p>"
   },
   {
     "questionId": 39,
@@ -465,7 +502,8 @@
       "d": "33 – 132"
     },
     "correctAnswer": "c",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">11(3𝑥 − 12)<br/> = (11)(3𝑥 − 12)<br/> = (11)(3𝑥)<br/> = (11)(-12)<br/> = 33x – 132</p>"
   },
   {
     "questionId": 40,
@@ -477,7 +515,8 @@
       "d": "52 – 18x"
     },
     "correctAnswer": "a",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">(8 − 2𝑥)9<br/> = (8 − 2𝑥) (9)<br/> = (8)(9)<br/> = (-2𝑥)(9)<br/> = 72 – 18x</p>"
   },
   {
     "questionId": 41,
@@ -489,7 +528,8 @@
       "d": "35 + 75x"
     },
     "correctAnswer": "c",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">5 (7 + 9𝑥)<br/> = (5)(7 + 9𝑥)<br/> = (5)(7)<br/> = (5)(9𝑥)<br/> = 35 + 45x</p>"
   },
   {
     "questionId": 42,
@@ -501,7 +541,8 @@
       "d": "55 – 22"
     },
     "correctAnswer": "c",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">11(5𝑥 + 2)<br/> = (11)(5𝑥 + 2)<br/> = (11)(5𝑥)<br/> = (11)(2)<br/> = 55x + 22</p>"
   },
   {
     "questionId": 43,
@@ -513,7 +554,8 @@
       "d": "-4x + 36"
     },
     "correctAnswer": "a",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">(−4𝑥 + 6)6<br/> = (−4𝑥 + 6)(6)<br/> = (−4𝑥)(6)<br/> = (6)(6)<br/> = -24x + 36</p>"
   },
   {
     "questionId": 44,
@@ -525,7 +567,8 @@
       "d": "16 – 8x"
     },
     "correctAnswer": "c",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">(−4)(4 − 2𝑥)<br/> = (−4) (4 − 2𝑥)<br/> = (−4) (4)  − (-4) (2𝑥)<br/> =  -16 + 8x</p>"
   },
   {
     "questionId": 45,
@@ -537,7 +580,8 @@
       "d": "-24x – 12"
     },
     "correctAnswer": "d",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">(−12)(2𝑥 + 1)<br/> = (−12)(2𝑥 + 1)<br/> = (−12)(2𝑥)<br/> = (−12)(1)<br/> = -24x – 12</p>"
   },
   {
     "questionId": 46,
@@ -549,7 +593,8 @@
       "d": "-b –6"
     },
     "correctAnswer": "a",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">(3b - 2)(-3)<br/> = (3b - 2)(-3)<br/> = (3b)(-3)<br/> = (-2)(-3)<br/> = -9b + 6</p>"
   },
   {
     "questionId": 47,
@@ -561,7 +606,8 @@
       "d": "7x – 8"
     },
     "correctAnswer": "b",
-	"points": "180"
+	"points": "180",
+	"solution": "<p class=\"text-h5 lh-solution\">(7x - 8)(-1)<br/> = (7x - 8)(-1)<br/> = (7x)(-1)<br/> = (-8)(-1)</p>"
   },
   {
     "questionId": 48,
@@ -573,7 +619,8 @@
       "d": "-20f + 32"
     },
     "correctAnswer": "d",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">(-5f + 8)4<br/> = (-5f + 8)(4)<br/> = (-5f)(4)<br/> = (8)(4)<br/> = -20f + 32</p>"
   },
   {
     "questionId": 49,
@@ -585,7 +632,8 @@
       "d": "16 + 52v"
     },
     "correctAnswer": "b",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">8(2 + 9v)<br/> = (8)(2 + 9v)<br/> = (8)(2)<br/> = (8)(9v)<br/> = 16 + 72v</p>"
   },
   {
     "questionId": 50,
@@ -597,6 +645,7 @@
       "d": "36k – 36"
     },
     "correctAnswer": "c",
-	"points": "280"
+	"points": "280",
+	"solution": "<p class=\"text-h5 lh-solution\">-4(9k + 9)<br/> = (-4)(9k + 9)<br/> = (-4)(9k)<br/> = (-4)(9)<br/> = -36k - 36</p>"
   }
 ]

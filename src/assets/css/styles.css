@@ -108,7 +108,7 @@ body {
 
 .cloud-1 {
   position: absolute;
-  top: 35px;
+  top: 60px;
   left: 50%;
   transform: translateX(-50%);
 
@@ -117,7 +117,7 @@ body {
 
 .cloud-2 {
   position: absolute;
-  top: 145px;
+  top: 185px;
   left: -70px;
   /* animation: float 2.5s infinite ease-in-out; */
 
@@ -125,7 +125,7 @@ body {
 
 .cloud-3 {
   position: absolute;
-  top: 145px;
+  top: 185px;
   right: -20px;
   /* animation: float 2.8s infinite ease-in-out; */
 }
@@ -152,7 +152,7 @@ body {
 
 .img-rectangle {
   position: absolute;
-  top: 110px;
+  top: 145px;
   left: 0;
   width: 110px;
   opacity: 0.7;
@@ -160,7 +160,7 @@ body {
 
 .img-circle {
   position: absolute;
-  top: 340px;
+  bottom: 170px;
   left: 0;
   width: 60px;
   opacity: 0.7;
@@ -168,7 +168,7 @@ body {
 
 .img-cone {
   position: absolute;
-  top: 90px;
+  top: 130px;
   right: 80px;
   width: 90px;
   opacity: 0.7;
@@ -374,6 +374,12 @@ body {
   align-items: center;
 }
 
+.gamescore-solution {
+  position: absolute;
+  top: -75px;
+  left: 10px;
+}
+
 .game-modal {
   min-width: 320px;
   position: relative;
@@ -459,11 +465,22 @@ body {
   font-size: 1.4rem;
 }
 
+.center-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text-h5.lh-solution {
+  margin-top: 15px;
+  line-height: 1.9rem !important;
+}
 /** MODAL SCORE */
 
 .gamescore-modal {
   min-width: 320px;
   position: relative;
+  margin-top: 40px;
   /* top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%); */
@@ -670,7 +687,7 @@ body {
 
   .img-circle {
     position: absolute;
-    top: 275px;
+    bottom: 170px;
     left: 0;
     width: 50px;
     opacity: 0.7;
@@ -721,7 +738,7 @@ body {
 
   .cloud-1 {
     position: absolute;
-    top: 45px;
+    top: 60px;
     left: 50%;
     transform: translateX(-50%);
     height: 100px;
@@ -729,14 +746,14 @@ body {
 
   .cloud-2 {
     position: absolute;
-    top: 100px;
+    top: 170px;
     left: -50px;
     height: 60px;
   }
 
   .cloud-3 {
     position: absolute;
-    top: 115px;
+    top: 170px;
     right: -20px;
     height: 60px;
   }
@@ -761,7 +778,7 @@ body {
 
   .img-rectangle {
     position: absolute;
-    top: 70px;
+    top: 140px;
     left: 0;
     width: 100px;
     opacity: 0.7;
@@ -769,7 +786,7 @@ body {
 
   .img-circle {
     position: absolute;
-    top: 275px;
+    bottom: 170px;
     left: 0;
     width: 50px;
     opacity: 0.7;
@@ -777,7 +794,7 @@ body {
 
   .img-cone {
     position: absolute;
-    top: 60px;
+    top: 120px;
     right: 55px;
     width: 80px;
     opacity: 0.7;
@@ -812,7 +829,7 @@ body {
   }
 
   .img-return {
-    height: 40px;
+    height: 42px;
     display: block;
     margin-bottom: 1.5rem;
   }
@@ -830,7 +847,7 @@ body {
 
   .cloud-1 {
     position: absolute;
-    top: 65px;
+    top: 80px;
     left: 50%;
     transform: translateX(-50%);
     height: 80px;
@@ -838,24 +855,22 @@ body {
 
   .cloud-2 {
     position: absolute;
-    top: 160px;
-    left: -30px;
-    height: 45px;
+    top: 180px;
+    left: -50px;
+    height: 50px;
   }
 
   .cloud-3 {
     position: absolute;
-    top: 160px;
+    top: 180px;
     right: -20px;
     height: 45px;
   }
 
   .cloud-4 {
     position: absolute;
-    top: 55%;
-    /* transform: translateY(-30%); */
+    top: 57%;
     right: 25%;
-    /* width: 115px; */
     height: 35px;
   }
 
@@ -863,22 +878,21 @@ body {
     position: absolute;
     top: 55%;
     left: 25%;
-    /* width: 115px; */
     height: 35px;
   }
 
 
   .img-rectangle {
     position: absolute;
-    top: 140px;
+    top: 160px;
     left: 0;
-    width: 70px;
+    width: 75px;
     opacity: 0.7;
   }
 
   .img-circle {
     position: absolute;
-    top: 300px;
+    bottom: 170px;
     left: 0;
     width: 40px;
     opacity: 0.7;
@@ -886,9 +900,9 @@ body {
 
   .img-cone {
     position: absolute;
-    top: 120px;
-    right: 40px;
-    width: 60px;
+    top: 140px;
+    right: 35px;
+    width: 65px;
     opacity: 0.7;
   }
 
@@ -902,15 +916,15 @@ body {
 
 
   .img-playbtn {
-    height: 95px;
+    height: 100px;
   }
 
   .img-optionbtn {
-    height: 65px;
+    height: 75px;
   }
 
   .img-geometry {
-    height: 145px;
+    height: 145px;    
   }
 
 }
